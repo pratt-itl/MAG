@@ -10,6 +10,10 @@ The Interdisciplinary Technology Lab is a space where intellectual networks conv
 
 ---
 
-The Medium Analysis Group (MAG) explores how data augments and mediates design processes by creating more intelligent feedback loops between the physical and virtual worlds. This knowledge is applied to material practice, spatiotemporal constructs, and ecological psychology, with a goal to enhance the relationship between the human condition and the environments that we surround ourselves with. MAG is capitalizing on enabling technologies to create new forms of design workflows,  environmental performance systems, and production efficiency in a broad set of applications across multiple scales. The work is highlighted in diverse application areas that include, sentient collaborative robotics, engineered design fabrication tools, spatial analysis & simulation, and high-performance environmental enclosures. 
+The Medium Analysis Group (MAG) explores how data augments and mediates design processes by creating more intelligent feedback loops between the physical and virtual worlds. This knowledge is applied to material practice, spatiotemporal constructs, and ecological psychology, with a goal to enhance the relationship between the human condition and the environments that we surround ourselves with. MAG is capitalizing on enabling technologies to create new forms of design workflows,  environmental performance systems, and production efficiency in a broad set of applications across multiple scales. The work is highlighted in diverse application areas that include, sentient collaborative robotics, engineered design fabrication tools, spatial analysis & simulation, and high-performance environmental enclosures.
 
 ---
+
+
+
+
