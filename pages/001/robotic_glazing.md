@@ -1,8 +1,8 @@
 ---
 layout: process
 title: Robotic Glazing
-category: MEDIUM ANALYSIS GROUP
-subcategory: M.A.G //001
+category: M.A.G //001
+subcategory: 
 description: Sentient Collaborative Robotics // Scanning & Glazing
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
