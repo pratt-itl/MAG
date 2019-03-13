@@ -1,12 +1,12 @@
 ---
 layout: process
-title: M.A.G //001
+title: Robotic Glazing
 category: MEDIUM ANALYSIS GROUP
-subcategory: Virtual Matter
+subcategory: M.A.G //001
 description: Sentient Collaborative Robotics // Scanning & Glazing
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
-heroimg: 
+heroimg: fluttering.PNG
 order: 0
 thumb: thumb.png
 ---
