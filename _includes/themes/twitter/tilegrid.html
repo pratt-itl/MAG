@@ -55,6 +55,7 @@
     }
 })()
 </script>
+
 <!-- CONTENT -->
 <div class="container container-narrow container-content">
   <div class="row-fluid post-full">
@@ -85,6 +86,31 @@
               '{{ proc.dir }}',
               '{{ proc.thumb }}',
               'procCards');
+          </script>
+          {% endif %}
+          {% endfor %}
+        </div>
+        <h2 class="heading-home">M.A.G.//001</h2>
+        <div id="magCards" class="card-columns">
+          <!-- PROCESSES -->
+          {% assign mags = site.pages | where: "category", "M.A.G //001" %}
+          {% for mag in mags %}
+          {% if mag.sketchfabUUID %}
+          <script defer>       
+            window.CreateSketchfabCard('{{ mag.title }}',
+              '{{ mag.description }}',
+              '{{ mag.url }}',
+              '{{ mag.sketchfabUUID }}',
+              'magCards');
+          </script>
+          {% else %}
+          <script defer>
+            window.CreateImageCard('{{ mag.title }}',
+              '{{ mag.description }}',
+              '{{ mag.url }}',
+              '{{ mag.dir }}',
+              '{{ mag.thumb }}',
+              'magCards');
           </script>
           {% endif %}
           {% endfor %}
