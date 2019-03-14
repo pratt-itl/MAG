@@ -32,12 +32,13 @@
             card += '<div class="card-header">'
             card += '<a class="a-title">MEDIUM ANALYSIS GROUP</a>'
             card += '</div>';
-            if(thumb){
-              card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
-            }
+            // if(thumb){
+            //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
+            // }
             card += '<div class="card-body">'
             card += '<p>' + projName + '</p>'
             card += '<p class="card-text">' + projDesc + '</p>';
+            card +=     '<a href="'+ pathStart + projUrl + '" class="btn btn-primary">Read</a>'
             card += '</div>';
         card += '</div>';
         var div = document.createElement('div');
