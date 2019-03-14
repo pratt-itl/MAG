@@ -322,6 +322,8 @@ th {
 .content {
   padding: 60px;
   background-color: white;
+  margin: auto;
+  max-width: 1200px;
 }
 
 blockquote {

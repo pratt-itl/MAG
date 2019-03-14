@@ -36,7 +36,7 @@
             //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
             // }
             card += '<div class="card-body">'
-            card += '<p>' + projName + '</p>'
+            card += '<h4 style="font-weight: bold">' + projName + '</h4>'
             card += '<p class="card-text">' + projDesc + '</p>';
             card +=     '<a href="'+ pathStart + projUrl + '" class="btn btn-primary">Read</a>'
             card += '</div>';
@@ -63,36 +63,11 @@
   <div class="row-fluid post-full">
     <div class="span12">
       <div class="content">
+        <hr style="border-top-width: 40px !important">
         {{ content }}
 
         <!-- CARDS -->
         <br>
-        <h2 class="heading-home">Research</h2>
-        <div id="procCards" class="card-columns">
-          <!-- PROCESSES -->
-          {% assign processes = site.pages | where: "category", "Research" %}
-          {% for proc in processes %}
-          {% if proc.sketchfabUUID %}
-          <script defer>       
-            window.CreateSketchfabCard('{{ proc.title }}',
-              '{{ proc.description }}',
-              '{{ proc.url }}',
-              '{{ proc.sketchfabUUID }}',
-              'procCards');
-          </script>
-          {% else %}
-          <script defer>
-            window.CreateImageCard('{{ proc.title }}',
-              '{{ proc.description }}',
-              '{{ proc.url }}',
-              '{{ proc.dir }}',
-              '{{ proc.thumb }}',
-              'procCards');
-          </script>
-          {% endif %}
-          {% endfor %}
-        </div>
-        <h2 class="heading-home">M.A.G.//001</h2>
         <div id="magCards" class="card-columns">
           <!-- PROCESSES -->
           {% assign mags = site.pages | where: "category", "M.A.G //001" %}
