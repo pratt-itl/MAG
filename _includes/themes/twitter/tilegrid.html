@@ -30,12 +30,13 @@
         let card = '';
         card += '<div class="card card-home card-project">'
             card += '<div class="card-header">'
-            card += '<a href="'+ pathStart + projUrl + '">' + projName + '</a>'
+            card += '<a class="a-title">MEDIUM ANALYSIS GROUP</a>'
             card += '</div>';
             if(thumb){
-              card += '<img class="card-img-top" src="'+ thumb + '">';
+              card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
             }
             card += '<div class="card-body">'
+            card += '<p>' + projName + '</p>'
             card += '<p class="card-text">' + projDesc + '</p>';
             card += '</div>';
         card += '</div>';

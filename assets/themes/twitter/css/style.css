@@ -596,8 +596,8 @@ li a {
   text-align: left;
 }
 
-.card-home a {
-  background-color: #000000;
+.card-home .a-title{
+  background-color: #000000 !important;
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 16px;
