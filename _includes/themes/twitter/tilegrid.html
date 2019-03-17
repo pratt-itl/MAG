@@ -28,20 +28,21 @@
       let pathStart = '{{ BASE_PATH }}';
       pathStart = pathStart ? pathStart : "";
         let card = '';
-        card += '<div class="card card-home card-project">'
-            card += '<div class="card-header">'
-            card += '<a class="a-title">MEDIUM ANALYSIS GROUP</a>'
-            card += '</div>';
-            // if(thumb){
-            //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
-            // }
-            card += '<div class="card-body">'
-            card += '<h4 style="font-weight: bold">' + projName + '</h4>'
-            card += '<p class="card-text">' + projDesc + '</p>';
-            card +=     '<a href="'+ pathStart + projUrl + '" class="btn btn-primary">Read</a>'
-            card += '</div>';
+        card += '<div class="card-header">'
+        card += '<a class="sticker-title">MEDIUM ANALYSIS GROUP</a>'
         card += '</div>';
+        // if(thumb){
+        //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
+        // }
+        card += '<div class="card-body">'
+        card += '<h4 style="font-weight: bold">' + projName + '</h4>'
+        card += '<p class="card-text">' + projDesc + '</p>';
+        card += '</div>';
+        card +=  '<div class="card-footer">'
+        card +=     '<a href="'+ pathStart + projUrl + '" class="btn btn-warning">Read</a>'
+        card +=  '</div>';
         var div = document.createElement('div');
+        div.className = 'card card-home card-project';
         div.innerHTML = card;
         return div;
     }
@@ -65,12 +66,12 @@
       <div class="content">
         <img style="max-width: inherit; margin-right: 0; margin-left: 0;" src="/assets/images/global/mag_black_white_header.PNG" width="170" height="75" alt="">
         <br>
-        <hr style="border-top-width: 30px !important">
+        <hr style="border-top-width: 40px !important">
         {{ content }}
 
         <!-- CARDS -->
         <br>
-        <div id="magCards" class="card-columns">
+        <div id="magCards" class="card-deck">
           <!-- PROCESSES -->
           {% assign mags = site.pages | where: "category", "M.A.G //001" %}
           {% for mag in mags %}
@@ -97,7 +98,7 @@
         <br> 
         <hr>
         <div>
-          <p style="font-size: 1.5rem; font-weight: bold">//TEAM</p>
+          <p class="sticker-title" style="margin: 0; max-width: 70px;">TEAM</p>
           <p>Richard Sarrach   <strong>Director</strong> <br />
             Ted Ngai  <strong>Senior Researcher</strong> <br />
             Scott Sorenson  <strong>Senior Researcher</strong> <br />

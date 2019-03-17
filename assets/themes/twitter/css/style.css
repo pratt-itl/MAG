@@ -99,6 +99,17 @@ a[data-toggle="collapse"] {
   max-width: initial;
 }
 
+
+.top-right {
+  position: fixed;
+  right: 35px;
+  top: 40px;
+}
+
+.top-right img {
+  max-width: initial;
+}
+
 .topnav {
   margin-left: 100px;
   margin-right: 100px;
@@ -421,7 +432,8 @@ h2 {
 
 
 h4 {
-  font-size: 1.8em !important;
+  font-size: 1.4em !important;
+  font-weight: bold;
 }
 
 /*
@@ -575,22 +587,21 @@ pre {
   text-align: left;
 }
 
-.card-home .a-title{
+.sticker-title{
   background-color: #000000 !important;
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 16px;
   padding-right: 16px;
   color: white !important;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   text-transform: UPPERCASE;
   font-weight: bold;
   margin: -10px;
 }
 
 .card-home p{
-  font-size: 1rem;
-  padding: 5px;
+  font-size: 0.9rem;
   font-family: 'IBM Plex Mono', monospace !important;
 
 }
@@ -609,4 +620,17 @@ pre {
 
 .card {
   border: 3px solid rgb(0, 0, 0);
+}
+
+.card-footer {
+  padding: none;
+  background-color: #fff;
+  border-top: none;
+}
+
+@media (min-width: 576px) {
+  .card-deck .card {
+    margin-left: 7px;
+    margin-right: 7px;
+  }
 }

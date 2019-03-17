@@ -1,9 +1,9 @@
 ---
 layout: process
-title: Surface Panelization
-category: Research
-subcategory: Virtual Matter
-description: How to turn a 3d surface into discrete panels.
+title: Environmental Enclosures
+category: M.A.G //001
+subcategory: 
+description: Sentient Collaborative Robotics // Scanning & Glazing
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
 heroimg: fluttering.PNG
