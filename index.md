@@ -14,4 +14,3 @@ The Medium Analysis Group (MAG) explores how data augments and mediates design p
 
 
 
-
