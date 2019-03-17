@@ -36,16 +36,30 @@ a[data-toggle="collapse"] {
   transform: translateY(-50%);
 }
 
+#sidebar p{
+  margin-top: -7px;
+  padding-top: 0;
+  font-size: 1.2rem;
+  padding-bottom: 0;
+  padding-left: 4px;
+  margin-bottom: 4px;
+}
+
+#sidebar li:hover {
+  background-color: rgb(34, 34, 34);
+}
+
 #sidebar {
   position: fixed !important;
   top: 0;
   left: 0;
   height: 100vh;
   z-index: 990;
-  background: #ffffffed;
-  color: #091134;
+  min-width: 300px;
+  background:black;
+  color: white;
   transition: all 0.3s;
-  padding: 20px;
+  padding: 35px;
 }
 
 #sidebarCollapse {
@@ -65,7 +79,8 @@ a[data-toggle="collapse"] {
 }
 
 .fixedRightOver {
-  left: 300px !important;
+  left: 320px !important;
+  background-color: white;
 }
 
 .top-right {
@@ -92,8 +107,27 @@ a[data-toggle="collapse"] {
   /* border-top-style: solid; */
 }
 
+ul {
+  margin: 0.75em 0;
+  padding: 0 1em;
+  list-style: none;
+}
+li:before { 
+  content: "";
+  border-color: transparent #fff;
+  border-style: solid;
+  border-width: 0.35em 0 0.35em 0.45em;
+  display: block;
+  height: 0;
+  width: 0;
+  left: -1em;
+  top: 0.9em;
+  position: relative;
+}
+
+
 p {
-  font-size: 1rem;
+  font-size: .95rem;
   line-height: 1.65;
   padding-bottom: 10px;
   padding-top: 10px;
@@ -109,9 +143,9 @@ h1 {
 }
 
 hr {
-  margin-top: 30px;
-  margin-bottom: 30px;
-  border-top: 10px solid rgba(0,0,0,1) !important;
+  margin-top: 12px;
+  margin-bottom: 38px;
+  border-top: 5px solid rgba(0,0,0,1) !important;
 }
 
 table,
@@ -219,6 +253,7 @@ th {
 
 .container-narrow {
   margin: 0 auto;
+  margin-top: 70px;
   min-width: 300px !important;
   max-width: 1300px !important;
 }
@@ -320,7 +355,6 @@ th {
 }
 
 .content {
-  padding: 60px;
   background-color: white;
   margin: auto;
   max-width: 1000px;
@@ -452,63 +486,6 @@ pre {
   color: gray;
 }
 
-/*
-.......##..######..########.########..########.########
-.......##.##....##....##....##.....##.##.......##......
-.......##.##..........##....##.....##.##.......##......
-.......##..######.....##....########..######...######..
-.##....##.......##....##....##...##...##.......##......
-.##....##.##....##....##....##....##..##.......##......
-..######...######.....##....##.....##.########.########
-*/
-
-.sidenav-Header {
-  font-style: oblique;
-  padding-left: 20px; 
-  padding-bottom: 20px;
-}
-
-#jsTreeNav{
-  padding-top: 30px;
-}
-
-.jstree-container-ul.jstree-children {
-  padding-left: 10px;
-}
-
-.jstree-default .jstree-clicked {
-  background: #fffe9e !important;
-}
-
-.jstree-default .jstree-hovered {
-  background: #fffe9e !important;
-}
-
-li a {
-  font-size: 1.3em;
-}
-
-.aka {
-  font-style: italic;
-  color: grey;
-  padding: 0;
-  margin: 0;
-  text-align: center;
-}
-
-
-.jstree-default .jstree-anchor {
-  line-height: 24px !important;
-  height: 44px !important;
-}
-
-/* Style page content */
-.main {
-  margin-left: 160px;
-  /* Same as the width of the sidebar */
-  padding: 0px 10px;
-}
-
 
 /*
 .##......##.########.########..##....##.####.########
@@ -619,7 +596,6 @@ li a {
 }
 
 .card-home .card-header {
-    padding: 0 !important;
     background-color: initial;
     border-bottom: none;
     margin: -13px;
