@@ -5,83 +5,172 @@ category: M.A.G //001
 subcategory: 
 description: Sentient Collaborative Robotics // Scanning & Glazing
 dependencies: [ 'Lines' ]
-platforms: [ 'Rhinoceros','Grasshopper' ]
-heroimg: fluttering.PNG
+platforms: [ 'Research','Development','Design' ]
+heroimg: ITL-01.jpg
 order: 0
 thumb: thumb.png
 ---
 
-There are several cases in which a designer will need to discretize a form into smaller pieces. It's common to represent the extents of an enclosure system, for example, using a NURBS surface, and converting that surface into a faceted, panelized system that follows it as a guide. In parametric modeling, this mitigates many of the pain points which come with upstream changes in form. 
-
 ---
-# Techniques
----
+# Design Research
 
+------
 
-## Lunchbox
+### Project Description
 
-The Lunchbox toolkit for **grasshopper** comes with a set of panelization tools for surfaces. Referencing your surface in Grasshopper and plugging it into any of these components will return surfaces representing the panels.
+This is a research and development collaboration of an environmental isolation pod system mainly for the deployment in open office settings. Our first phase primarily focuses on acoustical and material testing. Our second phase will tackle other environmental parameters such as lighting, air quality. Finally, we anticipate to also develop a number of embedded technologies 
 
+------
 
+### Design
 
-![](.\images\LunchboxPanels.png)
-
-
-
-#### Walkthrough
-
-- **Reference** your **surface** in **grasshopper** with a surface parameter object.
-
-- Drop in a Quad Panels component from the **Lunchbox** toolbar
-
-- Add integer sliders for the U and V divisions of the surface, and plug them into their respective inputs. These will dictate how many panels the component should create in the U and V axis of the surface
-
-- You can divide into panels of an **approximate size** by using the **Dimensions** component and dividing by the desired panel size in that direction, then feeding the result into its respective input on the component
-
-  ![](.\images\LunchboxPanels.gif)
-
----
-## C# Scripting in Grasshopper (Quad Panels)
+#### Approach
 
 You can write your own C# component for grasshopper to collect points of a surface into groups of quad panels. We will collect the points in the below order and use them to create polylines. 
 
-The walkthrough below will detail a simple approach with a flattened list of points coming from the **Divide Surface** component.
+------
 
-> See the Surface UV and Multidimensional Array articles for more information on the techniques shown here.
+### Acoustical Material Testing
+
+#### Methodology
+
+You can write your own C# component for grasshopper to collect points of a surface into groups of quad panels. We will collect the points in the below order and use them to create polylines. 
+
+------
+
+### Acoustics Environments Measurements
+
+#### Premise
+
+In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
+
+[^1]: http://www.montana.edu/rmaher/eele417_fl14/Determination_of_STC.pdf
+
+While NRC and STC are industry standards in understanding acoustical properties of building materials, in an age where offices have mostly adopted an open office layout where sound transmits freely, and with diversifying office culture where activities like desktop prototyping with CNC machines, doggy day care, and aerobic exercises can happen in the same space, these metrics are no longer adequate in assessing how our aural environments.  
 
 
-#### Walkthrough
 
-- **Reference** your **surface** into **grasshopper** using a surface parameter object.
+According to the National Institute on Deafness and Other Communication Disorders, long term exposure to sounds at or above 85 decibels can cause hearing loss [^2].  This metric to correlate sound pressure levels to hearing loss is, however, much too simplistic because it does not describe how different frequencies of sound affects our health differently. In a paper published in Environmental Health in 2014, researchers found high exposure to low frequency traffic noise at around 125 Hz may induce hypertension [^3].  Other researchers have also found significant associations between low frequency exposure to chronic diseases such as headaches, unusual tiredness, lack of concentration, irritation, and pressure on the eardrum [^4].  
 
-![0](.\images\flutter\0.PNG)
+[^2]: https://www.nidcd.nih.gov/health/noise-induced-hearing-loss
+[^3]: Chang, Ta-Yuan et al. “Road traffic noise frequency and prevalent hypertension in Taichung, Taiwan: a cross-sectional study” Environmental health : a global access science source vol. 13,1 37. 16 May. 2014, doi:10.1186/1476-069X-13-37
+[^4]: Persson Waye, Kerstin. (2011). Noise and Health - Effects of Low Frequency Noise and Vibrations: Environmental and Occupational Perspectives. 10.1016/B978-0-444-52272-6.00245-2.
 
-- Drop in a **Divide Surface** component and two i**nteger sliders** for your UV and connect. **Flatten** the output points by right clicking and flattening the list.
-- Drop in a **C#** component, and change the input parameters to the following:
-  - **Points**
-    - Type hint: Point3d
-    - List Access
-  - **V**
-    - Type hint: Integer
-    - Item Access
-- Change the output parameters to the following:
-  - **A**
-    - This will be used to debug if necessary.
-  - **Panels**
-    - This will be a return a list of polylines.
-- Plug components into eachother as shown above.
 
-![0](.\images\flutter\1.PNG)
 
-- We set up a **List** of **polylines** called **panels** which will receive output from the iterator
-- In the definition of the **for loop**, we will skip the last row of points in the list, by subtracting the size of the row (V) and two from the total count of the points. We subtract two from the list count to account for the fact that the number of points in a row is one greater than the number of panels (5 points = 4 lines), and the number of items in the list is one greater than the highest index of that list (first item in a list is the zeroeth).
-- In the beginning of the **for loop**, we will check if i is an nth point and skip it. In our case, we want to skip the last point in every row. We calculate this using the **modulo** (i + 1) % (V + 1).
-- For the sake of example, I verbosely capture the indices of the four points of each panel. Forgive me for using numbers in the variable name.
-- We grab the points from our incoming Points list with the four indices and create a list of points that will be used to construct our polyline.
-- We set **A** to pts just in case something goes wrong as your replicate this and want to see if the loop is running.
-- When the **for loop** has finished, we set our **output parameter** on the **C# component** to the list of polylines we've created.
+In short, our evolving work environment and the increasing number of environmental health research are showing a deficiency in this single value system, and our proposal is to develop a more comprehensive view of noise and its interaction with space and materials. 
 
-![2](.\images\flutter\2.PNG)
 
-- The next step for us is to extract the control points from the polylines we've outputted, which you can use to create a surface panel, mesh panel, or other products.
+
+What we propose is to go beyond the single value metric. Sound is a spectrum and human hearing is sensitive from 20Hz to 20kHz, therefore, we propose an acoustical standard that would allow us to gain a deeper insight into the nature of sound. 
+
+
+
+This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
+
+
+
+#### Environmental Noise Recording Methodology
+
+For sound recording, we are using a Zoom H1 Digital Recorder with 2 unidirectional microphone set at 90 degree to one another recording a wide sound field, and an Extech 407730- Digital sound level meter to record the sound pressure level (SPL) of the source, typically 1 meter away or as noted. If situation does not allow for the recording to be at 1 meter away, 2 meter distance is used and we use the Inverse Square Law, reduction of 6 decibel per meter, to adjust for the final value. 
+
+
+
+### *dL  =  20 log (R2 / R1)*  
+
+*where:*
+
+*dL = difference in sound pressure level (dB)*
+
+*R1 = distance from source to location 1 (ft, m)*
+
+*R2 = distance from source to location 2 (ft, m)*
+
+
+
+The sound pressure level is recorded with A-weighting on the instrument, which is weighted to human sound perception. The initial recordings recorded at about 36 locations profiling various kinds of noise, from single point source produced by a single machine, an omnisource produced by the extraction fan that is omnipresent, to background noise produced by foot and vehicular traffic. 
+
+
+
+We also referenced Health Link British Columbia [^5] for typical noise types and their average decibels levels, and we established that around 50 dB is what a quiet work environment would be, high 70s dB can be irritating to people, and above 85 dB would be considered harmful if there is long term exposure. 
+
+[^5]: https://www.healthlinkbc.ca/health-topics/tf4173
+
+Based on this information, we collated our recordings and profiled spaces that can serve as our baseline for what a quiet work environment would be, and spaces with frequent noise level above 75 dB. 
+
+
+
+| LOCATION                              | SOUND SOURCE       | DISTANCE FROM SOURCE | SOUND LEVEL |
+| ------------------------------------- | ------------------ | -------------------- | ----------- |
+| ITL Office                            | 3D Printer         | 1 m                  | 50.5        |
+| ITL Office                            | Chop Saw           | 2 m                  | 101.1       |
+| Higgins Hall Lobby                    | Foot Traffic       | ambient              | 81.8        |
+| Higgins Hall Main Staircase 1st Floor | Vending Machine    | 1 m                  | 77.6        |
+| Higgins Hall CNC Shop                 | CNC                | 2 m                  | 107.8       |
+| Higgins Hall South 3rd Floor Hallway  | CNC + Foot Traffic | 1 m                  | 79.3        |
+| Higgins Hall 3D Print Shop            | Spray Booth Fan    | 1 m                  | 81          |
+| Main Campus Security Booth            | Ambient Traffic    | ambient              | 75.1        |
+| Pratt Career Center                   | Foot Traffic       | ambient              | 53          |
+| Cafeteria                             | Foot Traffic       | ambient              | 79.3        |
+| Engineering Wood Shop                 | Machinery          | 1 m                  | 79.5        |
+| Engineering Print Lab                 | Printers           | 1 m                  | 77          |
+| Engineering 1st Floor Hallway         | Video              | 2 m                  | 77.6        |
+
+
+
+#### Data Processing Protocol
+
+In addition to recording the sound pressure levels,  the sound is also recorded as a sound file in .WAV 24bit / 96kHz format. The .WAV file is then brought into Audacity where we use its Fast Fourier Transform (FFT) algorithm to plot the spectrum. However, since Audacity’s spectral-graph is not weighted to human hearing, the data is exported out as a text file and then brought into Python to apply A-weighting with the following equation.
+
+
+
+##### A-Weighting Equation [^6]
+
+![alt text](images/a-weighting-eq.gif)
+
+*where:*
+
+*WA = weighting to be applied, dB*
+
+*f = frequency, Hz*
+
+[^6]: http://www.diracdelta.co.uk/science/source/a/w/aweighting/source.html
+
+
+
+##### A-Weighting Graph
+
+This is the A-weighting graph generated from the equation above.
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/145.embed"></iframe>
+
+##### Unweighted Recording
+
+This is the frequency spectrum graph straight from the audio recording.
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/147.embed"></iframe>
+
+##### A-Weighted Recording
+
+This is the frequency spectrum with A-weighting applied to approximate human hearing.
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/149.embed"></iframe>
+
+
+
+#### Measurement Results
+
+From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet work environment baseline. The peak decibel level in that space is 53 dBA, well below normal conversation level, which is around 60 dB. 
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/143.embed"></iframe>
+
+And as a comparison, this noise profile is from an even quieter office but with a 3D printer running. As you can see, the sound pressure level is lower mostly below 1 kHz and the increased noise level is mostly in the region of higher frequencies above 2 kHz. But the SPL reading shows a lower level at 50.5 dBA.
+
+![alt text](images/ITL-01.jpg)
+
+
+
+
+
+------
 
