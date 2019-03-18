@@ -134,6 +134,8 @@ In addition to recording the sound pressure levels,  the sound is also recorded 
 
 *f = frequency, Hz*
 
+
+
 [^6]: http://www.diracdelta.co.uk/science/source/a/w/aweighting/source.html
 
 
@@ -168,9 +170,175 @@ And as a comparison, this noise profile is from an even quieter office but with 
 
 ![alt text](images/ITL-01.jpg)
 
+Location : **ITL Office** 
 
+Noise Source : **3D printer** 
 
+Distance from Source : **1m**
 
+Max SPL : **50.5 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/131.embed"></iframe>
+
+------
+
+![alt text](images/ITL-02.jpg)
+
+Location : **ITL Office** 
+
+Noise Source : **Point source chop Saw** 
+
+Distance from Source : **2m**
+
+Max SPL : **101.1 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/129.embed"></iframe>
+
+------
+
+![alt text](images/ITL-02.jpg)
+
+Location : **School of Architecture Higgins Hall Lobby** 
+
+Noise Source : **Ambient noise, conversation and foot traffic** 
+
+Distance from Source : **Ambient**
+
+Max SPL : **81.8 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/125.embed"></iframe>
+
+------
+
+![alt text](images/ITL-03.jpg)
+
+Location : **School of Architecture Higgins Hall 1 Floor Seating Area by the Vending Machine** 
+
+Noise Source : **Ambient noise, conversation and foot traffic** 
+
+Distance from Source : **1m to Vending Machine**
+
+Max SPL : **77.6 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/123.embed"></iframe>
+
+------
+
+![alt text](images/ITL-04.jpg)
+
+Location : **School of Architecture Higgins Hall - CNC Shop** 
+
+Noise Source : **CNC Machine** 
+
+Distance from Source : **1m**
+
+Max SPL : **107.8 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/121.embed"></iframe>
+
+------
+
+![alt text](images/ITL-02.jpg)
+
+Location : **School of Architecture Higgins Hall - Hallway outside CNC Shop** 
+
+Noise Source : **CNC Machine + ambient foot traffic** 
+
+Distance from Source : **1m from the door of CNC shop**
+
+Max SPL : **79.3 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/119.embed"></iframe>
+
+------
+
+![alt text](images/ITL-02.jpg)
+
+Location : **School of Architecture Higgins Hall - 3D Print Shop** 
+
+Noise Source : **Spray Booth Fan** 
+
+Distance from Source : **1m**
+
+Max SPL : **81 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/127.embed"></iframe>
+
+------
+
+![alt text](images/ITL-05.jpg)
+
+Location : **Main Campus Security Booth** 
+
+Noise Source : **Ambient Traffic** 
+
+Distance from Source : **Ambient**
+
+Max SPL : **75.1 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/139.embed"></iframe>
+
+------
+
+![alt text](images/ITL-07.jpg)
+
+Location : **Cafeteria** 
+
+Noise Source : **Ambient Traffic** 
+
+Distance from Source : **Ambient**
+
+Max SPL : **79.3 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/137.embed"></iframe>
+
+------
+
+![alt text](images/ITL-02.jpg)
+
+Location : **Engineering Building Wood Shop** 
+
+Noise Source : **Machinery** 
+
+Distance from Source : **1m**
+
+Max SPL : **79.5 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/135.embed"></iframe>
+
+------
+
+![alt text](images/ITL-02.jpg)
+
+Location : **Engineering Building Print Lab** 
+
+Noise Source : **Printers** 
+
+Distance from Source : **1m**
+
+Max SPL : **77 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/133.embed"></iframe>
+
+------
+
+![alt text](images/ITL-06.jpg)
+
+Location : **Engineering Building 1st Floor Hallway** 
+
+Noise Source : **Video** 
+
+Distance from Source : **2m**
+
+Max SPL : **77.6 dBA**
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/141.embed"></iframe>
+
+------
+
+#### Conclusion
+
+From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet 
 
 ------
 
