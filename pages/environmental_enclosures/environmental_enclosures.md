@@ -38,35 +38,31 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 
 #### Approach
 
-###### Performance
+- ###### Performance
+  - Thicken wall layer system
+  - Sound Damping environment
+  - Lighting 
+  - Ventilation
+  - Soundwave leak
+  - Acoustic leak, Acoustically performing
 
-- Thicken wall layer system
-- Sound Damping environment
-- Lighting 
-- Ventilation
-- Soundwave leak
-- Acoustic leak, Acoustically performing
+- ###### Workspace
+  - Customizable
+  - Pinup surface
+  - Configurable
+  - 1-2 people
+  - Customizable chair, customizable table
 
-###### Workspace
+- ###### Pragmatics
+  - Mobile
+  - Deployable
+  - Durable, soundproofing material
+  - Flatpack shipment, deployable in any space easy installation
 
-- Customizable
-- Pinup surface
-- Configurable
-- 1-2 people
-- Customizable chair, customizable table
-
-###### Pragmatics
-
-- Mobile
-- Deployable
-- Durable, soundproofing material
-- Flatpack shipment, deployable in any space easy installation
-
-###### Solution to open office
-
-- Addressing the need for additional space, micro space, break out space
-- Addressing constraints of renovation vs need for diversity of spaces
-- Compact
+- ###### Solution to open office
+  - Addressing the need for additional space, micro space, break out space
+  - Addressing constraints of renovation vs need for diversity of spaces
+  - Compact
 
 ------
 
