@@ -1,24 +1,22 @@
 ---
 layout: process
-title: Spatial Analysis
+title: SPATIAL ANALYSIS
 category: M.A.G //001
 subcategory: 
 description: Sentient Collaborative Robotics // Scanning & Glazing
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
-heroimg: fluttering.PNG
+heroimg: ITL-01.jpg
 order: 0
 thumb: thumb.png
 ---
 
-There are several cases in which a designer will need to discretize a form into smaller pieces. It's common to represent the extents of an enclosure system, for example, using a NURBS surface, and converting that surface into a faceted, panelized system that follows it as a guide. In parametric modeling, this mitigates many of the pain points which come with upstream changes in form. 
-
 ---
-# Techniques
+# Environmental Sensor Network Design Research
 ---
 
 
-## Lunchbox
+## Project Description
 
 The Lunchbox toolkit for **grasshopper** comes with a set of panelization tools for surfaces. Referencing your surface in Grasshopper and plugging it into any of these components will return surfaces representing the panels.
 

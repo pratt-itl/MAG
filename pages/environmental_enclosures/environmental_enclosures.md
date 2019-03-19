@@ -1,6 +1,6 @@
 ---
 layout: process
-title: Environmental Enclosures
+title: AUTONOMOUS ENVIRONMENTAL ENCLOUSURES
 category: M.A.G //001
 subcategory: 
 description: Sentient Collaborative Robotics // Scanning & Glazing
@@ -12,13 +12,25 @@ thumb: thumb.png
 ---
 
 ---
-# Design Research
+# Escape Pod Design Research
 
 ------
 
 ### Project Description
 
-This is a research and development collaboration of an environmental isolation pod system mainly for the deployment in open office settings. Our first phase primarily focuses on acoustical and material testing. Our second phase will tackle other environmental parameters such as lighting, air quality. Finally, we anticipate to also develop a number of embedded technologies 
+Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. The evolution of workplace culture, behaviors and desires, as well as the rise in diversity of collaborative project management,  has placed undue strain on the interior physical constraints of spatial and furniture design. Beholden to larger arcs of financial and temporal constraints, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform rather than idealistic renovations. 
+
+Responding to these pressures, at the disjunction between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
+
+The interior configuration, comprised of a tabletop, chairs and pinup surface,  is sized appropriately to accommodate one to two individuals. Depending on occupancy or needs of users, the interior is customizable via a calibrated oversized peg-wall system that allows for adjustments of size and space of the interior environment. 
+
+Comfort and temporal solitude are provided by the escape pods carefully selected materials, embedded systems, and unique layered construction. Providing not only a durable and aesthetically pleasing interior but an acoustical shell allowing for privacy and separation for external surroundings. Adjustable lighting and constant ventilation, without compromising acoustical performance, allow tailoring their environment for the desired needs. 
+
+Pragmatically, the escape pod by design can be deployed in a multitude of spaces given its flat-pack shipment and ease of assembly. This allows unskilled labor to efficiently deliver, move and configure the pod using the door and standard elevator bay as a design constraint. Simple mechanical connections with limited tools and drop in material layers are designed for ease in construction by individuals. 
+
+The resulting ‘escape pods’ can be a stand-alone addition to a work environment or configured in a handful of organizations forms bays to linked connection producing larger spaces. Once assembled, added flexibility has been taken into consideration with industrial casters truly supporting the promise of adaptable microenvironment design. 
+
+Altogether the escape pods comprehensive approach provides the ideal design solution at the mesoscale for evolving work environments. It’s novelty, performance, and durability addresses the immediate issues with negotiating long-term arcs and pragmatics. 
 
 ------
 
@@ -26,7 +38,35 @@ This is a research and development collaboration of an environmental isolation p
 
 #### Approach
 
-You can write your own C# component for grasshopper to collect points of a surface into groups of quad panels. We will collect the points in the below order and use them to create polylines. 
+###### Performance
+
+- Thicken wall layer system
+- Sound Damping environment
+- Lighting 
+- Ventilation
+- Soundwave leak
+- Acoustic leak, Acoustically performing
+
+###### Workspace
+
+- Customizable
+- Pinup surface
+- Configurable
+- 1-2 people
+- Customizable chair, customizable table
+
+###### Pragmatics
+
+- Mobile
+- Deployable
+- Durable, soundproofing material
+- Flatpack shipment, deployable in any space easy installation
+
+###### Solution to open office
+
+- Addressing the need for additional space, micro space, break out space
+- Addressing constraints of renovation vs need for diversity of spaces
+- Compact
 
 ------
 
@@ -67,6 +107,8 @@ What we propose is to go beyond the single value metric. Sound is a spectrum and
 
 
 This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
+
+------
 
 
 
@@ -116,6 +158,8 @@ Based on this information, we collated our recordings and profiled spaces that c
 | Engineering Print Lab                 | Printers           | 1 m                  | 77          |
 | Engineering 1st Floor Hallway         | Video              | 2 m                  | 77.6        |
 
+------
+
 
 
 #### Data Processing Protocol
@@ -157,6 +201,8 @@ This is the frequency spectrum graph straight from the audio recording.
 This is the frequency spectrum with A-weighting applied to approximate human hearing.
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/149.embed"></iframe>
+
+------
 
 
 
