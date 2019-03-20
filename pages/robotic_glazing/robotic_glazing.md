@@ -1,6 +1,6 @@
 ---
 layout: process
-title: Robotic Glazing
+title: M.A.G //001
 category: M.A.G //001
 subcategory: 
 description: Sentient Collaborative Robotics // Scanning & Glazing

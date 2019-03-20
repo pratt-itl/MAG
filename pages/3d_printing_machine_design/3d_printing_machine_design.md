@@ -1,9 +1,9 @@
 ---
 layout: process
-title: 3d Printing / Machine Design
+title: M.A.G //002
 category: M.A.G //001
 subcategory: 
-description: 3d Printing / Machine Design
+description: 3d Printing / Machine Design // Clay & Large Format
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
 heroimg: fluttering.PNG

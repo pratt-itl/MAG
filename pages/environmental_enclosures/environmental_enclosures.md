@@ -1,9 +1,9 @@
 ---
 layout: process
-title: AUTONOMOUS ENVIRONMENTAL ENCLOUSURES
+title: M.A.G //003
 category: M.A.G //001
 subcategory: 
-description: Sentient Collaborative Robotics // Scanning & Glazing
+description: Autonomous Environmental Enclosures // Escape Pod
 dependencies: [ 'Lines' ]
 platforms: [ 'Research','Development','Design' ]
 heroimg: ITL-01.jpg
@@ -12,7 +12,7 @@ thumb: thumb.png
 ---
 
 ---
-# Escape Pod Design Research
+# Autonomous Environmental Enclosures // Escape Pod
 
 ------
 
@@ -35,6 +35,15 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 ------
 
 ### Design
+
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/itl-office-cf230a87371c4df18d9ab2301bd7e731?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ITL Office</a>
+    by <a href="https://sketchfab.com/itl?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">itl</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
 
 #### Approach
 
@@ -68,14 +77,6 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 
 ### Acoustical Material Testing
 
-#### Methodology
-
-You can write your own C# component for grasshopper to collect points of a surface into groups of quad panels. We will collect the points in the below order and use them to create polylines. 
-
-------
-
-### Acoustics Environments Measurements
-
 #### Premise
 
 In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
@@ -104,9 +105,17 @@ What we propose is to go beyond the single value metric. Sound is a spectrum and
 
 This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
 
+#### Methodology
+
+You can write your own C# component for grasshopper to collect points of a surface into groups of quad panels. We will collect the points in the below order and use them to create polylines. 
+
+
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/156.embed"></iframe>
+
 ------
 
-
+### Acoustics Environments Measurements
 
 #### Environmental Noise Recording Methodology
 

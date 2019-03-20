@@ -1,9 +1,9 @@
 ---
 layout: process
-title: SPATIAL ANALYTICS
+title: M.A.G //004
 category: M.A.G //001
 subcategory: 
-description: Sentient Collaborative Robotics // Scanning & Glazing
+description: Spatial Analysis & Simulation // ML & Sensors
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
 heroimg: ITL-01.jpg
