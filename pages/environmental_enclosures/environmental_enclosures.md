@@ -105,13 +105,49 @@ What we propose is to go beyond the single value metric. Sound is a spectrum and
 
 This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
 
-#### Methodology
 
-You can write your own C# component for grasshopper to collect points of a surface into groups of quad panels. We will collect the points in the below order and use them to create polylines. 
+
+------
+
+#### Material Testing Methodology
+
+Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to   do a full spectrum sweep between 20Hz to 20,000Hz. 
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/166.embed"></iframe>
+
+
 
 
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/156.embed"></iframe>
+
+
+
+
+
+
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/158.embed"></iframe>
+
+
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/160.embed"></iframe>
+
+
+
+
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/162.embed"></iframe>
+
+
+
+
+
+
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/164.embed"></iframe>
+
+
 
 ------
 
