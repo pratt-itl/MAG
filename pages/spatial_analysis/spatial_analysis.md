@@ -12,13 +12,17 @@ thumb: thumb.png
 ---
 
 ---
-# Sensor Network Design Research
+# Spatial Analysis & Simulation // ML & Sensors
 ---
 
 
 ### Project Description
 
-For the last 5 - 10 years, the development of IoT devices and the collection of Big Data for spatial intelligence, has been a dream come true for architects and designers. Since the days of of Frankfurt Kitchen and 
+Since the creation of Arduino back in 2003, low cost microcontrollers powered IoT devices collecting Big Data has become ubiquitous in our society. Although the applications of these data is very wide, from weather monitoring, surveillance and security, to the commercialization of our privacy, the art and design world have yet to interrogate the potentials of this technology, to the extent where it can fundamentally challenge our thinking and design paradigm. 
+
+Our research in this area was initiated by a series of conversations with our potential collaborators and by the internal needs within the institute. It started simply as a way to ask simple question with regard to the nature of space. Is the room too big or too small? Is the layout efficient? Are the furniture enhancing or disrupting people's concentration? As architects, understanding how space affects our behavior is one of the fundamental foundations in our profession. However, the ability to see beyond the temporal dimension is only possessed by very few, such as Jane Jacobs' assertion that eyes on the street make a safe and intimate neighborhood. However, strong observation is only the beginning of the scientific method, and we need much more than doctrines in the age of big data to inform high level decisions that may impact many.... blurb
+
+
 
 
 
@@ -44,6 +48,6 @@ For the last 5 - 10 years, the development of IoT devices and the collection of 
 
 - You can divide into panels of an **approximate size** by using the **Dimensions** component and dividing by the desired panel size in that direction, then feeding the result into its respective input on the component
 
-  ![](.\images\LunchboxPanels.gif)
+  
 
 ---
