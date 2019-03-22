@@ -11,12 +11,12 @@ order: 4
 thumb: thumb.png
 ---
 
----
-# Spatial Analysis & Simulation // ML & Sensors
+<hr class="homebreak">
+
+## Spatial Analysis & Simulation // ML & Sensors
 ---
 
-
-### Project Description
+<br>
 
 Since the creation of Arduino back in 2003, low cost microcontrollers powered IoT devices collecting Big Data has become ubiquitous in our society. Although the applications of these data is very wide, from weather monitoring, surveillance and security, to the commercialization of our privacy, the art and design world have yet to interrogate the potentials of this technology, to the extent where it can fundamentally challenge our thinking and design paradigm. 
 
