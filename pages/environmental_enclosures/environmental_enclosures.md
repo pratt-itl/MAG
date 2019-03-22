@@ -11,12 +11,8 @@ order: 0
 thumb: thumb.png
 ---
 
----
-# Autonomous Environmental Enclosures // Escape Pod
 
-------
-
-### Project Description
+## Autonomous Environmental Enclosures // Escape Pod
 
 Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. The evolution of workplace culture, behaviors and desires, as well as the rise in diversity of collaborative project management,  has placed undue strain on the interior physical constraints of spatial and furniture design. Beholden to larger arcs of financial and temporal constraints, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform rather than idealistic renovations. 
 
@@ -32,52 +28,43 @@ The resulting ‘escape pods’ can be a stand-alone addition to a work environm
 
 Altogether the escape pods comprehensive approach provides the ideal design solution at the mesoscale for evolving work environments. It’s novelty, performance, and durability addresses the immediate issues with negotiating long-term arcs and pragmatics. 
 
-------
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Design
+---
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Approach
 
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/itl-office-cf230a87371c4df18d9ab2301bd7e731?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ITL Office</a>
-    by <a href="https://sketchfab.com/itl?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">itl</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>
+- ##### Performance
+  - **Thicken wall layer system**
+  - **Sound Damping environment**
+  - **Lighting**
+  - **Ventilation**
+  - **Soundwave leak**
+  - **Acoustic leak, Acoustically performing**
 
-#### Approach
+- ##### Workspace
+  - **Customizable**
+  - **Pinup surface**
+  - **Configurable**
+  - **1-2 people**
+  - **Customizable chair, customizable table**
 
-- ###### Performance
-  - Thicken wall layer system
-  - Sound Damping environment
-  - Lighting 
-  - Ventilation
-  - Soundwave leak
-  - Acoustic leak, Acoustically performing
+- ##### Pragmatics
+  - **Mobile**
+  - **Deployable**
+  - **Durable, soundproofing material**
+  - **Flatpack shipment, deployable in any space easy installation**
 
-- ###### Workspace
-  - Customizable
-  - Pinup surface
-  - Configurable
-  - 1-2 people
-  - Customizable chair, customizable table
+- ##### Solution to open office
+  - **Addressing the need for additional space, micro space, break out space**
+  - **Addressing constraints of renovation vs need for diversity of spaces**
+  - **Compact**
 
-- ###### Pragmatics
-  - Mobile
-  - Deployable
-  - Durable, soundproofing material
-  - Flatpack shipment, deployable in any space easy installation
+<br>
 
-- ###### Solution to open office
-  - Addressing the need for additional space, micro space, break out space
-  - Addressing constraints of renovation vs need for diversity of spaces
-  - Compact
+---
 
-------
-
-### Acoustical Material Testing
-
-#### Premise
+## Acoustical Material Testing
 
 In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
 
@@ -109,7 +96,7 @@ This proposal involve 2 stages of acoustical testing. The first is to record and
 
 ------
 
-#### Material Testing Methodology
+## Material Testing Methodology
 
 Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to   do a full spectrum sweep between 20Hz to 20,000Hz. 
 
@@ -151,7 +138,7 @@ Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz 
 
 ------
 
-### Acoustics Environments Measurements
+## Our Measurements
 
 #### Environmental Noise Recording Methodology
 
@@ -202,8 +189,7 @@ Based on this information, we collated our recordings and profiled spaces that c
 ------
 
 
-
-#### Data Processing Protocol
+## Data Processing Protocol
 
 In addition to recording the sound pressure levels,  the sound is also recorded as a sound file in .WAV 24bit / 96kHz format. The .WAV file is then brought into Audacity where we use its Fast Fourier Transform (FFT) algorithm to plot the spectrum. However, since Audacity’s spectral-graph is not weighted to human hearing, the data is exported out as a text file and then brought into Python to apply A-weighting with the following equation.
 
@@ -246,8 +232,7 @@ This is the frequency spectrum with A-weighting applied to approximate human hea
 ------
 
 
-
-#### Measurement Results
+## Measurement Results
 
 From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet work environment baseline. The peak decibel level in that space is 53 dBA, well below normal conversation level, which is around 60 dB. 
 
@@ -423,7 +408,7 @@ Max SPL : **77.6 dBA**
 
 ------
 
-#### Conclusion
+## Conclusion
 
 From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet 
 
