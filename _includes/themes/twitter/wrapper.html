@@ -38,7 +38,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
     crossorigin="anonymous">
 
-    <script>
+    <!-- <script>
         $(function(){
     
         initMCustomScrollbar();
@@ -63,7 +63,25 @@
         }    
       });
       
-    </script>
+    </script> -->
+
+  <script>
+    /* Set the width of the side navigation to 250px and the left margin of the page content to 250px and add a black background color to body */
+    function openNav() {
+      document.getElementById("sidebar").style.width = "350px";
+      document.getElementById("content").style.marginLeft = "350px";
+      document.getElementById("sidebarCollapse").onclick = closeNav;
+      document.getElementById("openSidebar").style.left = "370px";
+    }
+
+    /* Set the width of the side navigation to 0 and the left margin of the page content to 0, and the background color of body to white */
+    function closeNav() {
+      document.getElementById("sidebar").style.width = "0";
+      document.getElementById("content").style.marginLeft = "0";
+      document.getElementById("sidebarCollapse").onclick = openNav;
+      document.getElementById("openSidebar").style.left = "10px";
+    }
+  </script>
 
 
 </head>
@@ -71,11 +89,10 @@
 <body>
   <!-- SIDEBAR AND CONTENT -->
   <div class="wrapper">
-
     <!-- SIDEBAR -->
-    <nav id="sidebar" class="active">
-      <h2 class="sidenav-Header" style="margin-top: 0; padding-top: 0;">//</h2>
-      <div>
+    <div id="sidebar">
+      <div style="padding: 35px">
+          <h2 class="sidenav-Header" style="margin-top: 0; padding-top: 0;">//</h2>
           <ul>
               <li><p>3d Printing / Machine Design</p></li>
               <li><p>Environmental Enclosures</p></li>
@@ -91,17 +108,18 @@
               11205<br>
             </small>
           </p>
-           </div>
+       </div>
       </div>
-    </nav>
+    </div>
     <!-- CONTENT (post.html, home.html, etc.) -->
     <div id="content">
       <!-- SIDEBAR BUTTON -->
       <div id="openSidebar">
-        <button id="sidebarCollapse" class="btn btn-outline-secondary my-2 my-sm-0" type="button">
-          <i class="fa fa-bars"></i>
-        </button>
+          <button onclick="openNav()" id="sidebarCollapse" class="btn btn-outline-secondary my-2 my-sm-0" type="button">
+              <i class="fa fa-bars"></i>
+            </button>
       </div>
+
 
       <!-- MINI ITL LOGO -->
       <div class="bottom-right">
