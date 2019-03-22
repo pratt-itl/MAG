@@ -272,7 +272,6 @@ th {
 
 .container-narrow {
   margin: 0 auto;
-  margin-top: 70px;
   min-width: 300px !important;
   max-width: 1300px !important;
 }
