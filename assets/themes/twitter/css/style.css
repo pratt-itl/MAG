@@ -45,9 +45,9 @@ a[data-toggle="collapse"] {
   margin-bottom: 4px;
 }
 
-#sidebar li:hover {
-  background-color: rgb(34, 34, 34);
-}
+/* #sidebar li:hover {
+  background-color: rgb(255, 255, 255);
+} */
 
 #sidebar {  
   height: 100%; /* 100% Full-height */
@@ -56,8 +56,8 @@ a[data-toggle="collapse"] {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  color: white;
-  background-color: black; /* Black*/
+  color: black;
+  background-color: white; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   transition: 0.3s; /* 0.5 second transition effect to slide in the sidenav */
 }
@@ -130,7 +130,7 @@ ul {
 }
 li:before { 
   content: "";
-  border-color: transparent #fff;
+  border-color: transparent black;
   border-style: solid;
   border-width: 0.35em 0 0.35em 0.45em;
   display: block;
@@ -373,7 +373,6 @@ th {
 .content {
   background-color: white;
   margin: auto;
-  max-width: 1000px;
 }
 
 #content {
