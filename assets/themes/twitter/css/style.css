@@ -378,8 +378,8 @@ th {
 #content {
   transition: margin-left .5s;
   padding-top: 30px;
-  padding-left: 80px;
-  padding-right: 80px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 
