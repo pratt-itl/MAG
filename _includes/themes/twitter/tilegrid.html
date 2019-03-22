@@ -31,6 +31,9 @@
         card += '<div class="card-header">'
         card += '<a class="sticker-title">MEDIUM ANALYSIS GROUP</a>'
         card += '</div>';
+        // if(thumb){
+        //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
+        // }
         card += '<div class="card-body">'
         card += '<h4 style="font-weight: bold">' + projName + '</h4>'
         card += '<p class="card-text">' + projDesc + '</p>';
@@ -70,7 +73,7 @@
         <br>
         <div id="magCards" class="card-deck">
           <!-- PROCESSES -->
-          {% assign mags = site.pages | where: "category", "M.A.G //001" %}
+          {% assign mags = site.pages | where: "category", "M.A.G" %}
           {% for mag in mags %}
           {% if mag.sketchfabUUID %}
           <script defer>       
