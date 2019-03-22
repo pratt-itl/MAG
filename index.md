@@ -1,7 +1,7 @@
 ---
 layout: tilegrid
-title: Welcome
-description: description
+title: Medium Analysis Group
+description: Exploring how data augments and mediates design processes by creating more intelligent feedback loops between the physical and virtual worlds. 
 ---
 
 <iframe allowfullscreen="true" frameBorder="0" width="100%" height="700px" src="https://momento360.com/e/u/c39b974011b344cca1cbbffba7fe2883?utm_campaign=embed&utm_source=other&utm_medium=other&heading=0&pitch=0&field-of-view=75" style="padding-bottom: 30px"></iframe>
