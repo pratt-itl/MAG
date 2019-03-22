@@ -161,7 +161,7 @@ h1 {
   text-align: center;
 }
 
-hr {
+.homebreak {
   margin-top: 12px;
   margin-bottom: 38px;
   border-top: 5px solid rgba(0,0,0,1) !important;
