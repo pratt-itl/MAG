@@ -431,14 +431,13 @@ h3,
 h4,
 h5 {
   padding-top: 20px;
-  padding-bottom: 20px;
 }
 
 h2 {
   text-rendering: geometricPrecision;
   font-size: 2.3em;
   padding-bottom: 30px;
-  margin-top: 60px;
+  /* margin-top: 60px; */
   font-size: 3.4em;
   font-family: 'Rubik', sans-serif;
 }
