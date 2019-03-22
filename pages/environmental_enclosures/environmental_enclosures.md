@@ -16,7 +16,7 @@ thumb: thumb.png
 ## Autonomous Environmental Enclosures // Escape Pod
 ---
 
-**Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users.** The evolution of workplace culture, behaviors and desires, as well as the rise in diversity of collaborative project management,  has placed undue strain on the interior physical constraints of spatial and furniture design. Beholden to larger arcs of financial and temporal constraints, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform rather than idealistic renovations. 
+Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. The evolution of workplace culture, behaviors and desires, as well as the rise in diversity of collaborative project management,  has placed undue strain on the interior physical constraints of spatial and furniture design. Beholden to larger arcs of financial and temporal constraints, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform rather than idealistic renovations. 
 
 Responding to these pressures, at the disjunction between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
 
