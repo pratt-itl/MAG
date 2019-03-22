@@ -15,5 +15,3 @@ thumb: thumb.png
 
 ## Sentient Collaborative Robotics // Scanning & Glazing
 ---
-
-<br>

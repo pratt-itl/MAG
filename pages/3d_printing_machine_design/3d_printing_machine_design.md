@@ -15,5 +15,3 @@ thumb: thumb.png
 
 ## 3d Printing / Machine Design // Clay & Large Format
 ---
-
-<br>

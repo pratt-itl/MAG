@@ -16,8 +16,6 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
-<br>
-
 Since the creation of Arduino back in 2003, low cost microcontrollers powered IoT devices collecting Big Data has become ubiquitous in our society. Although the applications of these data is very wide, from weather monitoring, surveillance and security, to the commercialization of our privacy, the art and design world have yet to interrogate the potentials of this technology, to the extent where it can fundamentally challenge our thinking and design paradigm. 
 
 Our research in this area was initiated by a series of conversations with our potential collaborators and by the internal needs within the institute. It started simply as a way to ask simple question with regard to the nature of space. Is the room too big or too small? Is the layout efficient? Are the furniture enhancing or disrupting people's concentration? As architects, understanding how space affects our behavior is one of the fundamental foundations in our profession. However, the ability to see beyond the temporal dimension is only possessed by very few, such as Jane Jacobs' assertion that eyes on the street make a safe and intimate neighborhood. However, strong observation is only the beginning of the scientific method, and we need much more than doctrines in the age of big data to inform high level decisions that may impact many.... blurb
