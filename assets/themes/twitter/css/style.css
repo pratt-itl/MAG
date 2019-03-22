@@ -378,9 +378,11 @@ th {
 #content {
   transition: margin-left .5s;
   padding-top: 30px;
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 80px;
+  padding-right: 80px;
 }
+
+
 
 blockquote {
   border-left-width: 1px;
@@ -644,4 +646,14 @@ pre {
     margin-left: 7px;
     margin-right: 7px;
   }
+}
+
+.btn:hover {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.btn-outline-secondary:hover, .btn-outline-secondary:focus, .btn-outline-secondary:active, .btn-outline-secondary.active, .open>.dropdown-toggle.btn-outline-secondary {
+  color: #000 !important;
+  background-color: #fff;
 }
