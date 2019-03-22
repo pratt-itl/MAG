@@ -92,7 +92,7 @@
     <!-- SIDEBAR -->
     <div id="sidebar">
       <div id="sidebar-content" style="padding: 35px;">
-          <h2 class="sidenav-Header" style="margin-top: 0; padding-top: 0;">//</h2>
+          <a href="{{ BASE_PATH }}"><h2 class="sidenav-Header" style="margin-top: 0; padding-top: 0;">//</h2></a>
           <ul>
               {% assign mags = site.pages | where: "category", "M.A.G" %}
               {% for mag in mags %}
