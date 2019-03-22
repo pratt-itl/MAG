@@ -73,7 +73,8 @@
         <br>
         <div id="magCards" class="card-deck">
           <!-- PROCESSES -->
-          {% assign mags = site.pages | where: "category", "M.A.G" %}
+          {% assign ma = site.pages | where: "category", "M.A.G" %}
+          {% assign mags = ma | sort: 'order' %}
           {% for mag in mags %}
           {% if mag.sketchfabUUID %}
           <script defer>       
