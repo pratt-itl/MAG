@@ -1,13 +1,13 @@
 ---
 layout: process
 title: M.A.G //003
-category: M.A.G //001
+category: M.A.G
 subcategory: 
 description: Autonomous Environmental Enclosures // Escape Pod
 dependencies: [ 'Lines' ]
 platforms: [ 'Research','Development','Design' ]
 heroimg: ITL-01.jpg
-order: 0
+order: 3
 thumb: thumb.png
 ---
 

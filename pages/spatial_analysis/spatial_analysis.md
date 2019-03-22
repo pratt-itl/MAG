@@ -1,13 +1,13 @@
 ---
 layout: process
 title: M.A.G //004
-category: M.A.G //001
+category: M.A.G
 subcategory: 
 description: Spatial Analysis & Simulation // ML & Sensors
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
 heroimg: ITL-01.jpg
-order: 0
+order: 4
 thumb: thumb.png
 ---
 
