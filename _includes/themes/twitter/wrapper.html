@@ -96,7 +96,7 @@
           <ul>
               {% assign mags = site.pages | where: "category", "M.A.G" %}
               {% for mag in mags %}
-              <li><a href="{{ mag.url }}"><p>{{ mag.description }}</p></a></li>
+              <li><a href="{{ BASE_PATH }}{{ mag.url }}"><p>{{ mag.description }}</p></a></li>
               {% endfor %}
             </ul>
             <div style="padding-top: 200px">
