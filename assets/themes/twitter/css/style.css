@@ -123,12 +123,12 @@ a[data-toggle="collapse"] {
   /* border-top-style: solid; */
 }
 
-ul {
+#sidebar-content ul {
   margin: 0.75em 0;
   padding: 0 1em;
   list-style: none;
 }
-li:before { 
+#sidebar-content ul li:before { 
   content: "";
   border-color: transparent black;
   border-style: solid;
