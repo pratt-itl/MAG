@@ -20,6 +20,8 @@ Responding to these pressures, at the disjunction between workplace space-planni
 
 The interior configuration, comprised of a tabletop, chairs and pinup surface,  is sized appropriately to accommodate one to two individuals. Depending on occupancy or needs of users, the interior is customizable via a calibrated oversized peg-wall system that allows for adjustments of size and space of the interior environment. 
 
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
 Comfort and temporal solitude are provided by the escape pods carefully selected materials, embedded systems, and unique layered construction. Providing not only a durable and aesthetically pleasing interior but an acoustical shell allowing for privacy and separation for external surroundings. Adjustable lighting and constant ventilation, without compromising acoustical performance, allow tailoring their environment for the desired needs. 
 
 Pragmatically, the escape pod by design can be deployed in a multitude of spaces given its flat-pack shipment and ease of assembly. This allows unskilled labor to efficiently deliver, move and configure the pod using the door and standard elevator bay as a design constraint. Simple mechanical connections with limited tools and drop in material layers are designed for ease in construction by individuals. 
@@ -28,7 +30,6 @@ The resulting ‘escape pods’ can be a stand-alone addition to a work environm
 
 Altogether the escape pods comprehensive approach provides the ideal design solution at the mesoscale for evolving work environments. It’s novelty, performance, and durability addresses the immediate issues with negotiating long-term arcs and pragmatics. 
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ---
 
