@@ -22,7 +22,7 @@ Our research in this area was initiated by a series of conversations with our po
 
 
 
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/ZnPfhx3L0Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
