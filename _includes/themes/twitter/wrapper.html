@@ -71,10 +71,14 @@
       document.getElementById("sidebar").style.width = "350px";
       document.getElementById("content").style.marginLeft = "350px";
       document.getElementById("sidebarCollapse").onclick = closeNav;
-      document.getElementById("openSidebar").style.left = "370px";
+      document.getElementById("openSidebar").style.left = "290px";
+      document.getElementById("openSidebar").style.top = "40px";
+      document.getElementById("sidebarBtn").classList.remove("fa-bars");
+      document.getElementById("sidebarBtn").classList.add("fa-times");
       if(window.innerWidth < 1400){
         document.getElementById("magCards").classList.remove('card-deck');
         document.getElementById("magCards").classList.add('card-columns');
+        
       }
 
     }
@@ -84,7 +88,10 @@
       document.getElementById("sidebar").style.width = "0";
       document.getElementById("content").style.marginLeft = "0";
       document.getElementById("sidebarCollapse").onclick = openNav;
-      document.getElementById("openSidebar").style.left = "10px";
+      document.getElementById("openSidebar").style.left = "20px";
+      document.getElementById("openSidebar").style.top = "20px";
+      document.getElementById("sidebarBtn").classList.remove("fa-times");
+      document.getElementById("sidebarBtn").classList.add("fa-bars");
       if(window.innerWidth < 1400){
       document.getElementById("magCards").classList.add('card-deck');
       document.getElementById("magCards").classList.remove('card-columns');
@@ -126,7 +133,7 @@
       <!-- SIDEBAR BUTTON -->
       <div id="openSidebar">
           <button onclick="openNav()" id="sidebarCollapse" class="btn btn-outline-secondary my-2 my-sm-0" type="button">
-              <i class="fa fa-bars"></i>
+              <i id="sidebarBtn" class="fa fa-bars"></i>
             </button>
       </div>
 
