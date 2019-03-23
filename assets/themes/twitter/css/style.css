@@ -60,7 +60,7 @@ a[data-toggle="collapse"] {
   background-color: white; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   overflow-y: hidden;
-  transition: 0.3s; /* 0.5 second transition effect to slide in the sidenav */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
   
   /* border-right: solid; 
   border-right-color: black" */
@@ -361,7 +361,7 @@ th {
 }
 
 #content {
-  transition: margin-left .5s;
+  transition: margin-left 1s;
   padding-top: 30px;
   padding-left: 100px;
   padding-right: 100px;
