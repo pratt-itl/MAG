@@ -87,6 +87,11 @@ a[data-toggle="collapse"] {
   z-index: 999;
 }
 
+.itlAddr {
+    position: absolute;
+    bottom: 60px;
+}
+
 .fixedRightOver {
   left: 360px !important;
   background-color: white;

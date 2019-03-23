@@ -75,6 +75,7 @@
       document.getElementById("openSidebar").style.top = "40px";
       document.getElementById("sidebarBtn").classList.remove("fa-bars");
       document.getElementById("sidebarBtn").classList.add("fa-times");
+      document.getElementById("itlAddr").style.color = "#000";
       if(window.innerWidth < 1400){
         document.getElementById("magCards").classList.remove('card-deck');
         document.getElementById("magCards").classList.add('card-columns');
@@ -92,6 +93,7 @@
       document.getElementById("openSidebar").style.top = "20px";
       document.getElementById("sidebarBtn").classList.remove("fa-times");
       document.getElementById("sidebarBtn").classList.add("fa-bars");
+      document.getElementById("itlAddr").style.color = "#fff";
       if(window.innerWidth < 1400){
       document.getElementById("magCards").classList.add('card-deck');
       document.getElementById("magCards").classList.remove('card-columns');
@@ -116,14 +118,15 @@
               <li><a href="{{ BASE_PATH }}{{ mag.url }}"><p>{{ mag.description }}</p></a></li>
               {% endfor %}
             </ul>
-            <div style="padding-top: 100px">
+            <div id="itlAddr" class="itlAddr" style="color: white; transition: all 1s;">
               <p style="font-size: 0.8rem">
-            <small>© ITL MAG<br><br>
-              Pratt Institute<br>
-              200 Willoughby Ave<br>
-              ENG 002<br>
-              11205<br>
-            </small>
+              <small>© ITL MAG<br><br>
+                Pratt Institute<br>
+                200 Willoughby Ave<br>
+                ENG 002<br>
+                Brooklyn, NY<br>
+                11205<br>
+              </small>
           </p>
        </div>
       </div>
