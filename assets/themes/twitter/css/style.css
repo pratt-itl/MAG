@@ -57,7 +57,6 @@ a[data-toggle="collapse"] {
   top: 0; /* Stay at the top */
   left: 0;
   color: black;
-  background-color: white; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   overflow-y: hidden;
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
