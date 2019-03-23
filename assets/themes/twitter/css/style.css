@@ -584,7 +584,6 @@ pre {
 .card-header {
   text-align: left;
 }
-
 .sticker-title{
   background-color: #000000 !important;
   padding-top: 3px;
@@ -626,12 +625,37 @@ pre {
   border-top: none;
 }
 
+/* IPAD */
 @media (min-width: 576px) {
   .card-deck .card {
-    margin-left: 7px;
-    margin-right: 7px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
+
+  .sticker-title{
+    background-color: #000000 !important;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    padding-left: 13px;
+    padding-right: 13px;
+    color: white !important;
+    font-size: 0.8rem;
+    text-transform: UPPERCASE;
+    font-weight: bold;
+    margin: -10px;
+  }
+
+  h4 {
+    font-size: 1.3em !important;
+    font-weight: bold;
+  }
+
+  .card-columns {
+    column-count: 2;
+  }    
+  
 }
+
 
 .btn:hover {
   color: #fff !important;
