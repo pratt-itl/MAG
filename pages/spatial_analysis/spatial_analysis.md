@@ -1,5 +1,5 @@
 ---
-layout: process
+Slayout: process
 title: M.A.G //004
 category: M.A.G
 subcategory: 
@@ -64,9 +64,9 @@ Our area of research utilizes many state of the art systems for human and non-hu
 
 ------
 
-### Simultaneous Localization and Mapping (SLAM) for Building Occupancy Tracking 
+### Vision Based Building Occupancy Tracking System
 
-
+We are developing a computer vision based building occupancy tracking system that can acquire real-time and static 3D information to assess a building's occupancy state. The system relies on Simultaneous Localization and Mapping (SLAM) for realtime and Structure From Motion (SFM) for static data acquisition.
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/HEfql1s4Qac?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
