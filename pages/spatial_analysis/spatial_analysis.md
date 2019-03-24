@@ -16,15 +16,19 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
-This research area encompasses a number of projects that are currently undertaken by MAG at ITL. The primary focus of this research is to collect data to reveal macro and micro structures and behaviors in space that would be hidden otherwise. Ultimately, the elevated understanding will help us make better informed decisions. 
+This research area encompasses a number of projects that are currently undertaken by MAG at ITL. The primary focus of this research is to collect spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses. The goal is to gain knowledge and understanding of space to help us make better informed decisions. 
 
-We have categoried the research generally into human and non-human factors. 
+We have categorized our research into a number of generalized human and non-human factors. Non-human factors include issues relating to building performances, built ecologies, and environments in the post-anthropocene. On the other hand, human factors under investigations include, 
+
+Our research was initiated by a series of conversations with our potential collaborators and by the internal needs within the institute. It started simply as a way to ask simple question with regard to the nature of space. Is the room too big or too small? Is the layout efficient? Are the furniture enhancing or disrupting people's concentration? As architects, understanding how space affects our behavior is one of the fundamental foundations in our profession. However, the ability to see beyond the temporal dimension is only possessed by very few, such as Jane Jacobs' assertion that eyes on the street make a safe and intimate neighborhood. However, strong observation is only the beginning of the scientific method, and we need much more than doctrines in the age of big data to inform high level decisions that may impact many.... blurb
 
 
 
-Since the creation of Arduino back in 2003, low cost microcontrollers powered IoT devices collecting Big Data has become ubiquitous in our society. Although the applications of these data is very wide, from weather monitoring, surveillance and security, to the commercialization of our privacy, the art and design world have yet to interrogate the potentials of this technology, to the extent where it can fundamentally challenge our thinking and design paradigm. 
+------
 
-Our research in this area was initiated by a series of conversations with our potential collaborators and by the internal needs within the institute. It started simply as a way to ask simple question with regard to the nature of space. Is the room too big or too small? Is the layout efficient? Are the furniture enhancing or disrupting people's concentration? As architects, understanding how space affects our behavior is one of the fundamental foundations in our profession. However, the ability to see beyond the temporal dimension is only possessed by very few, such as Jane Jacobs' assertion that eyes on the street make a safe and intimate neighborhood. However, strong observation is only the beginning of the scientific method, and we need much more than doctrines in the age of big data to inform high level decisions that may impact many.... blurb
+### General Methodology
+
+Our area of research utilizes many state of the art systems for human and non-human based spatial analytics. On the software side, we mainly rely on supervised machine learning for object detection built on Google's Tensorflow framework and computer vision system via OpenCV. On the hardware side, we have experimented with mobile AI platform such as Nvidia's Jetson, Raspberry Pi paired with the Movidius Neural Compute Stick. For non-mobile applications, we use the good old CUDA processing, and Google's Cloud Computing Platform. For data acquisition, we deploy a network of low cost IoT devices with built-in WIFI such as ESP8266 connected via MQTT and LoRa protocol. 
 
 
 
@@ -35,6 +39,8 @@ Our research in this area was initiated by a series of conversations with our po
 
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZghiIqtgPDk?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,7 +70,11 @@ Our research in this area was initiated by a series of conversations with our po
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/HEfql1s4Qac?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
