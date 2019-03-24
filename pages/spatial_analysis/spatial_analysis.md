@@ -38,7 +38,9 @@ Our research in this area was initiated by a series of conversations with our po
 </p>
 </div>
 
-<iframe id="sensor1" width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/44.embed"></iframe>
+<p id="sensor1"></p>
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/44.embed"></iframe>
 
 
 
