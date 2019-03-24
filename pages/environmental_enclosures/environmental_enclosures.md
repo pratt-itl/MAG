@@ -32,7 +32,6 @@ The resulting ‘escape pods’ can be a stand-alone addition to a work environm
 
 Altogether the escape pods comprehensive approach provides the ideal design solution at the mesoscale for evolving work environments. It’s novelty, performance, and durability addresses the immediate issues with negotiating long-term arcs and pragmatics. 
 
-
 ---
 
 ## Approach
@@ -73,7 +72,7 @@ In accounting for acoustical properties of building materials, a single number N
 
 [^1]: http://www.montana.edu/rmaher/eele417_fl14/Determination_of_STC.pdf
 
-While NRC and STC are industry standards in understanding acoustical properties of building materials, in an age where offices have mostly adopted an open office layout where sound transmits freely, and with diversifying office culture where activities like desktop prototyping with CNC machines, doggy day care, and aerobic exercises can happen in the same space, these metrics are no longer adequate in assessing how our aural environments.  
+While NRC and STC are industry standards in understanding acoustical properties of building materials, in an age where offices have mostly adopted an open office layout where sound transmits freely, and with diversifying office culture where activities like desktop prototyping with CNC machines, doggy day care, and aerobic exercises can happen in the same space, these metrics are no longer adequate in assessing our aural environments.  
 
 
 

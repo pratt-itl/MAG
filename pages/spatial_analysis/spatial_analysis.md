@@ -16,17 +16,33 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
+This research area encompasses a number of projects that are currently undertaken by MAG at ITL. The primary focus of this research is to collect data to reveal macro and micro structures and behaviors in space that would be hidden otherwise. Ultimately, the elevated understanding will help us make better informed decisions. 
+
+We have categoried the research generally into human and non-human factors. 
+
+
+
 Since the creation of Arduino back in 2003, low cost microcontrollers powered IoT devices collecting Big Data has become ubiquitous in our society. Although the applications of these data is very wide, from weather monitoring, surveillance and security, to the commercialization of our privacy, the art and design world have yet to interrogate the potentials of this technology, to the extent where it can fundamentally challenge our thinking and design paradigm. 
 
 Our research in this area was initiated by a series of conversations with our potential collaborators and by the internal needs within the institute. It started simply as a way to ask simple question with regard to the nature of space. Is the room too big or too small? Is the layout efficient? Are the furniture enhancing or disrupting people's concentration? As architects, understanding how space affects our behavior is one of the fundamental foundations in our profession. However, the ability to see beyond the temporal dimension is only possessed by very few, such as Jane Jacobs' assertion that eyes on the street make a safe and intimate neighborhood. However, strong observation is only the beginning of the scientific method, and we need much more than doctrines in the age of big data to inform high level decisions that may impact many.... blurb
 
 
 
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+------
+
+### Spatial Analytics with Machine Learning
+
+
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZghiIqtgPDk?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+------
+
+### IoT Senor Network for Environmental and Behavioral Tracking
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -38,11 +54,15 @@ Our research in this area was initiated by a series of conversations with our po
 </p>
 </div>
 
-<p id="sensor1"></p>
-
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/44.embed"></iframe>
 
 
+------
+
+### Simultaneous Localization and Mapping (SLAM) for Building Occupancy Tracking 
+
+
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/HEfql1s4Qac?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -54,16 +74,22 @@ Our research in this area was initiated by a series of conversations with our po
 </p>
 </div>
 
-#### Walkthrough
+<p id="sensor1"></p>
 
-- **Reference** your **surface** in **grasshopper** with a surface parameter object.
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/44.embed"></iframe>
 
-- Drop in a Quad Panels component from the **Lunchbox** toolbar
 
-- Add integer sliders for the U and V divisions of the surface, and plug them into their respective inputs. These will dictate how many panels the component should create in the U and V axis of the surface
 
-- You can divide into panels of an **approximate size** by using the **Dimensions** component and dividing by the desired panel size in that direction, then feeding the result into its respective input on the component
+------
 
-  
+### Machine Learning Library Development for Spatial Recognition
+
+
+
+
+
+
+
+
 
 ---
