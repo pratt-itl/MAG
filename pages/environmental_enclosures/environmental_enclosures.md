@@ -8,7 +8,7 @@ dependencies: [ 'Lines' ]
 platforms: [ 'Research','Development','Design' ]
 heroimg: ITL-01.jpg
 order: 3
-thumb: thumb.png
+thumb: 
 ---
 
 <hr class="homebreak">
@@ -68,6 +68,8 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 
 ## Acoustical Material Testing
 
+![alt text](images/ITL_RESEARCH_ FABRIC_TEST_002.png)
+
 In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
 
 [^1]: http://www.montana.edu/rmaher/eele417_fl14/Determination_of_STC.pdf
@@ -94,7 +96,7 @@ What we propose is to go beyond the single value metric. Sound is a spectrum and
 
 This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
 
-
+![alt text](images/ITL_RESEARCH_ FABRIC_TEST_001.png)
 
 ------
 
