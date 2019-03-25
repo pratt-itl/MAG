@@ -240,6 +240,16 @@ This is the frequency spectrum with A-weighting applied to approximate human hea
 
 From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet work environment baseline. The peak decibel level in that space is 53 dBA, well below normal conversation level, which is around 60 dB. 
 
+![alt text](images/DSC03713-HDR.jpg)
+
+Location : **Pratt Career Center** 
+
+Noise Source : **Ambient** 
+
+Distance from Source : **Ambient**
+
+Max SPL : **53 dBA**
+
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/143.embed"></iframe>
 
 And as a comparison, this noise profile is from an even quieter office but with a 3D printer running. As you can see, the sound pressure level is lower mostly below 1 kHz and the increased noise level is mostly in the region of higher frequencies above 2 kHz. But the SPL reading shows a lower level at 50.5 dBA.
@@ -370,7 +380,7 @@ Max SPL : **79.3 dBA**
 
 ------
 
-![alt text](images/ITL-02.jpg)
+![alt text](images/DSC03695-HDR.jpg)
 
 Location : **Engineering Building Wood Shop** 
 
@@ -384,7 +394,7 @@ Max SPL : **79.5 dBA**
 
 ------
 
-![alt text](images/ITL-02.jpg)
+![alt text](images/DSC03684-HDR.jpg)
 
 Location : **Engineering Building Print Lab** 
 
