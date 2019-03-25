@@ -1,5 +1,5 @@
 ---
-Slayout: process
+layout: process
 title: M.A.G //004
 category: M.A.G
 subcategory: 
