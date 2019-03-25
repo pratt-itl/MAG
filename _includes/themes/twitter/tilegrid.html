@@ -21,7 +21,7 @@
         let pathStart = '{{ BASE_PATH }}';
         pathStart = pathStart ? pathStart : "";
         let card = createCard(projName, projDesc, projUrl, thumb ? ('{{ BASE_PATH }}' + dir + '/images/' + thumb) : undefined);
-        document.getElementById(sectionId).appendChild(card);      
+        document.getElementById(sectionId).appendChild(card);
     }
 
     function createCard(projName, projDesc, projUrl, thumb){
@@ -48,7 +48,7 @@
     }
 
     function imageExists(image_url){
-      
+
       var http = new XMLHttpRequest();
 
       http.open('HEAD', image_url, false);
@@ -80,7 +80,7 @@
           {% assign mags = ma | sort: 'order' %}
           {% for mag in mags %}
           {% if mag.sketchfabUUID %}
-          <script defer>       
+          <script defer>
             window.CreateSketchfabCard('{{ mag.title }}',
               '{{ mag.description }}',
               '{{ mag.url }}',
@@ -99,7 +99,7 @@
           {% endif %}
           {% endfor %}
         </div>
-        <br> 
+        <br>
         <hr class="homebreak">
         <div>
           <p class="sticker-title" style="margin: 0; max-width: 70px;">TEAM</p>
@@ -109,11 +109,26 @@
             Leland Jobson  <strong>ITL Researcher</strong> <br />
             David Mans  <strong>ITL Researcher</strong> <br />
             Kyriaki Goti <strong>ITL Researcher</strong> <br /></p>
+
+            <p class="sticker-title" style="margin: 0; max-width: 70px;">RAs</p>
+            <p>Andy Kim<br />
+              Anna Seidman<br />
+              Serra <br />
+              Irmak<br />
+              Yvette Gong<br />
+              Forrest Pailes<br />
+              Juan <br />
+              Noah Rosenberg <br />
+              Xian <br />
+              Yanping <br />
+              Minho Kwak <br />
+              Ever Goya <br />
+          </p>
         </div>
-        <br> 
-        <br> 
-        <br> 
-        <br> 
+        <br>
+        <br>
+        <br>
+        <br>
       </div>
     </div>
   </div>
