@@ -45,3 +45,10 @@ The powers of 10 nest and they all need each other:
 
 
 ![alt text](images/Ecology of tools.jpg)
+
+
+
+Map of tool development and its evolution through its connections between multiple platforms (biological material, plastic, hybrids, clay feedstock). In our case, it is now migrating towards interdisciplinary collaborative robotics and we can push things further we are because we are positioned in the IT division. 
+
+
+
