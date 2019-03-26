@@ -14,61 +14,51 @@ thumb:
 <hr class="homebreak">
 
 ## Autonomous Environmental Enclosures // Escape Pod
----
-
-Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. The evolution of workplace culture, behaviors and desires, as well as the rise in diversity of collaborative project management,  has placed undue strain on the interior physical constraints of spatial and furniture design. Beholden to larger arcs of financial and temporal constraints, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform rather than idealistic renovations. 
-
-Responding to these pressures, at the disjunction between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
-
-The interior configuration, comprised of a tabletop, chairs and pinup surface,  is sized appropriately to accommodate one to two individuals. Depending on occupancy or needs of users, the interior is customizable via a calibrated oversized peg-wall system that allows for adjustments of size and space of the interior environment. 
-
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="600" src="https://sketchfab.com/models/bc9895e366c448509a48c50ea68586e8/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-Comfort and temporal solitude are provided by the escape pods carefully selected materials, embedded systems, and unique layered construction. Providing not only a durable and aesthetically pleasing interior but an acoustical shell allowing for privacy and separation for external surroundings. Adjustable lighting and constant ventilation, without compromising acoustical performance, allow tailoring their environment for the desired needs. 
 
-Pragmatically, the escape pod by design can be deployed in a multitude of spaces given its flat-pack shipment and ease of assembly. This allows unskilled labor to efficiently deliver, move and configure the pod using the door and standard elevator bay as a design constraint. Simple mechanical connections with limited tools and drop in material layers are designed for ease in construction by individuals. 
 
-The resulting ‘escape pods’ can be a stand-alone addition to a work environment or configured in a handful of organizations forms bays to linked connection producing larger spaces. Once assembled, added flexibility has been taken into consideration with industrial casters truly supporting the promise of adaptable microenvironment design. 
+This flat-pack, easy to assemble system allows for deployment within various interior environments, providing an acoustical ‘bubble’ with customizable interior workspace for one or two occupants.
 
-Altogether the escape pods comprehensive approach provides the ideal design solution at the mesoscale for evolving work environments. It’s novelty, performance, and durability addresses the immediate issues with negotiating long-term arcs and pragmatics. 
+------
 
----
+Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. Evolving workplace culture, behaviors and desires, as well as the rise in diverse collaborative project management, have placed undue strain on the physical constraints of interior spatial and furniture design. Beholden to arcs of financial and temporal pressures, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform opposed to comprehensive renovations required. 
 
-## Approach
+Responding to these pressures, at the disjunct between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge, accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
 
-- ##### Performance
-  - Thicken wall layer system
-  - Sound Damping environment
-  - Lighting
-  - Ventilation
-  - Soundwave leak
-  - Acoustic leak, Acoustically performing
+![](./images/2019.03.26 ITL ESCAPE POD RO EVENT REP EXPORT 001-01.png)
 
-- ##### Workspace
-  - Customizable
-  - Pinup surface
-  - Configurable
-  - 1-2 people
-  - Customizable chair, customizable table
+The interior configuration, composed of a tabletop, chairs and pin-up surface, is sized appropriately to accommodate one to two individuals. Depending on occupancy or needs of users, the interior is customizable via a calibrated oversized peg-wall system that allows for adjustments of size and space of the interior environment.
 
-- ##### Pragmatics
-  - Mobile
-  - Deployable
-  - Durable, soundproofing material
-  - Flatpack shipment, deployable in any space easy installation
+![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 002-01.png)
 
-- ##### Solution to open office
-  - Addressing the need for additional space, micro space, break out space
-  - Addressing constraints of renovation vs need for diversity of spaces
-  - Compact
+![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 003-01.png)
 
-<br>
+Comfort and temporal solitude is/are provided by the escape pods carefully selected materials, embedded systems, and unique layered construction. Providing not only a durable and aesthetically pleasing interior, but an acoustical shell allowing for privacy and separation from external surroundings. 
+
+Adjustable lighting and constant ventilation, achieved without compromising acoustical performance, allows for tailoring of the interior environment for users desired needs and comfort.
+
+![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 004-01.png)
+
+
+
+![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 005-01.png)
+
+Pragmatically, the escape pod by design is deployable in a multitude of spaces given its flat-pack shipment and ease of assembly. This allows unskilled labor to efficiently deliver, move and configure the pod using the door and standard elevator bay as a design constraint. Simple mechanical connections with limited tools and drop in material layers are designed for ease of construction by a limited number of individuals. 
+
+The resulting ‘escape pods’ can be a stand-alone addition to a work environment or configured in a handful of organizations from bays to linked connection producing larger spaces. Once assembled, added flexibility with industrial casters truly supports the promise of adaptable microenvironments design.
+
+![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 006.1-01.png)
+
+Altogether the escape pods comprehensive approach provides the ideal design solution at the mesoscale for evolving work environments. It’s innovation, performance, and durability addresses the immediate issues of workplace settings while negotiating an array of constraints and pragmatics.
+
+![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 007.png)
+
+![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 008.png)
 
 ---
 
 ## Acoustical Material Testing
-
-![alt text](images/ITL_RESEARCH_ FABRIC_TEST_002.png)
 
 In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
 
@@ -96,7 +86,7 @@ What we propose is to go beyond the single value metric. Sound is a spectrum and
 
 This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
 
-![alt text](images/ITL_RESEARCH_ FABRIC_TEST_001.png)
+
 
 ------
 
