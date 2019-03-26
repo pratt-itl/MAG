@@ -22,7 +22,7 @@ Responding to these pressures, at the disjunction between workplace space-planni
 
 The interior configuration, comprised of a tabletop, chairs and pinup surface,  is sized appropriately to accommodate one to two individuals. Depending on occupancy or needs of users, the interior is customizable via a calibrated oversized peg-wall system that allows for adjustments of size and space of the interior environment. 
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="400" src="https://sketchfab.com/models/bc9895e366c448509a48c50ea68586e8/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="600" src="https://sketchfab.com/models/bc9895e366c448509a48c50ea68586e8/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 Comfort and temporal solitude are provided by the escape pods carefully selected materials, embedded systems, and unique layered construction. Providing not only a durable and aesthetically pleasing interior but an acoustical shell allowing for privacy and separation for external surroundings. Adjustable lighting and constant ventilation, without compromising acoustical performance, allow tailoring their environment for the desired needs. 
 

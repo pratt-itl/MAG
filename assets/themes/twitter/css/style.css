@@ -552,7 +552,8 @@ pre {
 
 .sketchfab-embed-wrapper iframe {
   min-width: -webkit-fill-available;
-  min-height: -webkit-fill-available;
+  /* min-height: -webkit-fill-available; */
+  min-height: 600;
 }
 
 /*
