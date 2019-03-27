@@ -71,23 +71,15 @@ In accounting for acoustical properties of building materials, a single number N
 
 While NRC and STC are industry standards in understanding acoustical properties of building materials, in an age where offices have mostly adopted an open office layout where sound transmits freely, and with diversifying office culture where activities like desktop prototyping with CNC machines, doggy day care, and aerobic exercises can happen in the same space, these metrics are no longer adequate in assessing our aural environments.  
 
-
-
 According to the National Institute on Deafness and Other Communication Disorders, long term exposure to sounds at or above 85 decibels can cause hearing loss [^2].  This metric to correlate sound pressure levels to hearing loss is, however, much too simplistic because it does not describe how different frequencies of sound affects our health differently. In a paper published in Environmental Health in 2014, researchers found high exposure to low frequency traffic noise at around 125 Hz may induce hypertension [^3].  Other researchers have also found significant associations between low frequency exposure to chronic diseases such as headaches, unusual tiredness, lack of concentration, irritation, and pressure on the eardrum [^4].  
 
 [^2]: https://www.nidcd.nih.gov/health/noise-induced-hearing-loss
 [^3]: Chang, Ta-Yuan et al. “Road traffic noise frequency and prevalent hypertension in Taichung, Taiwan: a cross-sectional study” Environmental health : a global access science source vol. 13,1 37. 16 May. 2014, doi:10.1186/1476-069X-13-37
 [^4]: Persson Waye, Kerstin. (2011). Noise and Health - Effects of Low Frequency Noise and Vibrations: Environmental and Occupational Perspectives. 10.1016/B978-0-444-52272-6.00245-2.
 
-
-
 In short, our evolving work environment and the increasing number of environmental health research are showing a deficiency in this single value system, and our proposal is to develop a more comprehensive view of noise and its interaction with space and materials. 
 
-
-
 What we propose is to go beyond the single value metric. Sound is a spectrum and human hearing is sensitive from 20Hz to 20kHz, therefore, we propose an acoustical standard that would allow us to gain a deeper insight into the nature of sound. 
-
-
 
 This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
 
@@ -97,39 +89,17 @@ This proposal involve 2 stages of acoustical testing. The first is to record and
 
 ## Material Testing Methodology
 
-Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to   do a full spectrum sweep between 20Hz to 20,000Hz. 
+Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to do a full spectrum sweep between 20Hz to 20,000Hz. For equipment we are using a measurement microphone that is factory calibrated and records a flat profile. We setup a rig so the speaker and microphone is 1 meter apart, and the testing material is right up against the speaker to minimize reflected sound. We take a control measurement without any materials prior to each test. Measurement is then collected and processed with Python.
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/166.embed"></iframe>
 
-
-
-
-
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/156.embed"></iframe>
-
-
-
-
-
-
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/158.embed"></iframe>
 
-
-
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/160.embed"></iframe>
 
-
-
-
-
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/162.embed"></iframe>
-
-
-
-
-
-
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/164.embed"></iframe>
 
@@ -212,7 +182,7 @@ In addition to recording the sound pressure levels,  the sound is also recorded 
 
 ##### A-Weighting Graph
 
-This is the A-weighting graph generated from the equation above.
+ A-weighting function generated based the equation above. A-weighting modifies the sound file to simulate human hearing perception. Human hearing is less sensitive in the low and high frequency range. Since, our recording is using a measurement microphone that records a flat profile. We applied this weighting function to all our sound recording so the noise environment closely resembles our hearing.
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/145.embed"></iframe>
 
