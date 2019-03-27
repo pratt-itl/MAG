@@ -16,9 +16,9 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
-This research area encompasses a number of projects that are currently undertaken by MAG at ITL. The primary focus of this research is to collect spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses. The goal is to gain knowledge and understanding of space to help us make better informed decisions. 
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
-We have categorized our research into a number of generalized human and non-human factors. Non-human factors include issues relating to building performances, built ecologies, and environments in the post-anthropocene. On the other hand, human factors under investigations include, 
+We have categorized our research areas based on a number of anthropocentric and non-anthropocentric factors. They include anything from building performances, built ecologies - building, and environments in the post-anthropocene. On the other hand, human factors under investigations include, 
 
 Our research was initiated by a series of conversations with our potential collaborators and by the internal needs within the institute. It started simply as a way to ask simple question with regard to the nature of space. Is the room too big or too small? Is the layout efficient? Are the furniture enhancing or disrupting people's concentration? As architects, understanding how space affects our behavior is one of the fundamental foundations in our profession. However, the ability to see beyond the temporal dimension is only possessed by very few, such as Jane Jacobs' assertion that eyes on the street make a safe and intimate neighborhood. However, strong observation is only the beginning of the scientific method, and we need much more than doctrines in the age of big data to inform high level decisions that may impact many.... blurb
 
@@ -26,19 +26,13 @@ Our research was initiated by a series of conversations with our potential colla
 
 ------
 
-### General Methodology
-
-Our area of research utilizes many state of the art systems for human and non-human based spatial analytics. On the software side, we mainly rely on supervised machine learning for object detection built on Google's Tensorflow framework and computer vision system via OpenCV. On the hardware side, we have experimented with mobile AI platform such as Nvidia's Jetson, Raspberry Pi paired with the Movidius Neural Compute Stick. For non-mobile applications, we use the good old CUDA processing, and Google's Cloud Computing Platform. For data acquisition, we deploy a network of low cost IoT devices with built-in WIFI such as ESP8266 connected via MQTT and LoRa protocol. 
-
-
-
-------
-
 ### Spatial Analytics with Machine Learning
 
-
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/3H8r1qbow5g?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -48,7 +42,11 @@ Our area of research utilizes many state of the art systems for human and non-hu
 
 ### IoT Senor Network for Environmental and Behavioral Tracking
 
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
+
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/I9Rmb03NNyI?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="600" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -59,13 +57,15 @@ Our area of research utilizes many state of the art systems for human and non-hu
 </p>
 </div>
 
+We are also developing a dashboard system that display both the overall 3D information and  individual sensor information.
+
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/168.embed"></iframe>
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/170.embed"></iframe>
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/172.embed"></iframe>
 
-
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 
 
@@ -77,7 +77,7 @@ We are developing a computer vision based building occupancy tracking system tha
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/HEfql1s4Qac?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="600" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -101,7 +101,7 @@ We are developing a computer vision based building occupancy tracking system tha
 
 ### Machine Learning Library Development for Spatial Recognition
 
-
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 
 
