@@ -16,20 +16,16 @@ thumb:
 
 ---
 
+Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. Evolving workplace culture, behaviors and desires, as well as the rise in diverse collaborative project management, have placed undue strain on the physical constraints of interior spatial and furniture design. Beholden to arcs of financial and temporal pressures, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform opposed to comprehensive renovations required. 
+
 ![TEST001](.\images\TEST001.png)
 
+Responding to these pressures, at the disjunct between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge, accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="600" src="https://sketchfab.com/models/bc9895e366c448509a48c50ea68586e8/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 
-
 This flat-pack, easy to assemble system allows for deployment within various interior environments, providing an acoustical ‘bubble’ with customizable interior workspace for one or two occupants.
-
-------
-
-Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. Evolving workplace culture, behaviors and desires, as well as the rise in diverse collaborative project management, have placed undue strain on the physical constraints of interior spatial and furniture design. Beholden to arcs of financial and temporal pressures, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform opposed to comprehensive renovations required. 
-
-Responding to these pressures, at the disjunct between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge, accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
 
 ![](./images/2019.03.26 ITL ESCAPE POD RO EVENT REP EXPORT 001-01.png)
 
