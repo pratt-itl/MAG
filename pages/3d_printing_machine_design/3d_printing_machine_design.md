@@ -55,9 +55,16 @@ Map of tool development and its evolution through its connections between multip
 
 The below two gifs should be next to eachother
 
-![alt text](images/image1.gif)
-
-![alt text](images/image9.gif)
+<div class="container">
+<div class="row">
+  <div class="col">
+  <img src="images/image1.gif">
+  </div>
+  <div class="col">
+  <img src="images/image9.gif">
+  </div>
+</div>
+</div>
 
 ---
 
@@ -73,15 +80,15 @@ Prototype for large scale pellet extrusion.
 
 ![alt text](images/image6.jpg)
 
-001 Blurred lines: DP Research, Andrew Reitz & Matt Leta
+001 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
 
 ![alt text](images/image13.jpg)
 
-002 Blurred lines: DP Research, Andrew Reitz & Matt Leta
+002 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
 
 ![alt text](images/image8.jpg)
 
-003 Blurred lines: DP Research, Andrew Reitz & Matt Leta
+003 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
 
 Diagram 3: Controlling Where the Uncontrollable Occurs - What seems like chaos is actually ordered. Where Catenaries occurs, bundling emerges within. Where plateaus occur, rippling emerges. When Catenaries are being formed, plateaus begin to emerge along the perimeters of the beginning and end of the catenaries. Between these two hierarchies, there is chaos or what is actually a lattice formation that stitches the two separate categories of worlds together. Diagram 5: Speed of Extrusion - the faster the strands are deposited, the less likely a catenaries form.
 
@@ -91,7 +98,7 @@ Phase 2: Line to Volume / Proof 1: Phase 2 marked the beginning of control. This
 
 ![alt text](images/image7.jpg)
 
-004 Blurred lines: DP Research, Andrew Reitz & Matt Leta
+004 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
 
 ![alt text](images/image18.jpg)
 
@@ -116,7 +123,6 @@ Phase 3: Emergent Repetition - This photograph exhibits the intricate “ripples
  ![alt text](images/image14.jpg)
 
  Bioprinter: David Ruy | BioPrinter design: Richard Sarrach | Synthetic Biologists: Oliver Medvedik and Nina Tandon 
-
 
  ---
 
