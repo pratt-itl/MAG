@@ -241,7 +241,7 @@ a {
 .principleTable tr,
 td,
 th {
-  border: none;
+  /* border: none; */
 }
 
 .dependencyTable th {
