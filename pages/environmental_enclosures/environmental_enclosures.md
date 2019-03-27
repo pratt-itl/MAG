@@ -22,8 +22,8 @@ Contemporary work environments are all too often unable to keep up with the cons
 
 Responding to these pressures, at the disjunct between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge, accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
 
-<div class="sketchfab-embed-wrapper"><iframe width="100%" height="600" src="https://sketchfab.com/models/bc9895e366c448509a48c50ea68586e8/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="600" src="https://sketchfab.com/models/bc9895e366c448509a48c50ea68586e8/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 This flat-pack, easy to assemble system allows for deployment within various interior environments, providing an acoustical ‘bubble’ with customizable interior workspace for one or two occupants.
 
