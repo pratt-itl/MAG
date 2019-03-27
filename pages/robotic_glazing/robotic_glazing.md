@@ -41,5 +41,9 @@ Robotics in the creative disciplines has the potential to recast the entire fiel
 
 Lorem ipsum dolor motherfuckers!
 
+![](images/trip.gif)
+
 ---
+
+<br><br>
 
