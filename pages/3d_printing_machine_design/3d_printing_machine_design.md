@@ -30,32 +30,15 @@ the way we have have been educating our students have helped to position us favo
 
 The following has to do with a new way to think about tools in the institute.
 
-Ecology of Tools/Machines/Instruments
+| Price Point |  $1,000,000 | $100,000           | $10,000             |   $1,000  |
+| Function    |  Research  | Machine Fabrication | Project Fabrication |  Support  |
 
-
-
-The powers of 10 nest and they all need each other:
-
-- #### $1,000,000 machines - used for research
-
-- #### $100,000 machines - to create machines
-
-- #### $10,000 machines - make projects
-
-- #### $1,000 machines - support (research, machines, and projects)
-
-
+> Ecology of Tools/Machines/Instruments. The powers of 10 nest and they all need each other.
 
 ![alt text](images/Ecology of tools.jpg)
 
+> Map of tool development and its evolution through its connections between multiple platforms (biological material, plastic, hybrids, clay feedstock). In our case, it is now migrating towards interdisciplinary collaborative robotics and we can push things further we are because we are positioned in the IT division. 
 
-
-Map of tool development and its evolution through its connections between multiple platforms (biological material, plastic, hybrids, clay feedstock). In our case, it is now migrating towards interdisciplinary collaborative robotics and we can push things further we are because we are positioned in the IT division. 
-
-
-![alt text](images/image17.jpg)
-
-The below two gifs should be next to eachother
 
 <div class="container">
 <div class="row">
@@ -74,7 +57,7 @@ The below two gifs should be next to eachother
 
 ![alt text](images/image4.jpg)
 
-Prototype for large scale pellet extrusion.
+> Prototype for large scale pellet extrusion.
 
 ---
 
@@ -82,37 +65,35 @@ Prototype for large scale pellet extrusion.
 
 ![alt text](images/image6.jpg)
 
-001 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
+> _Blurred Lines_ - Degree Project Research by Andrew Reitz & Matt Leta
 
 ![alt text](images/image13.jpg)
 
-002 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
+> _Blurred Lines_ - Degree Project Research by Andrew Reitz & Matt Leta
 
 ![alt text](images/image8.jpg)
 
-003 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
-
-Diagram 3: Controlling Where the Uncontrollable Occurs - What seems like chaos is actually ordered. Where Catenaries occurs, bundling emerges within. Where plateaus occur, rippling emerges. When Catenaries are being formed, plateaus begin to emerge along the perimeters of the beginning and end of the catenaries. Between these two hierarchies, there is chaos or what is actually a lattice formation that stitches the two separate categories of worlds together. Diagram 5: Speed of Extrusion - the faster the strands are deposited, the less likely a catenaries form.
+> Diagram 3: Controlling Where the Uncontrollable Occurs - What seems like chaos is actually ordered. Where Catenaries occurs, bundling emerges within. Where plateaus occur, rippling emerges. When Catenaries are being formed, plateaus begin to emerge along the perimeters of the beginning and end of the catenaries. Between these two hierarchies, there is chaos or what is actually a lattice formation that stitches the two separate categories of worlds together. Diagram 5: Speed of Extrusion - the faster the strands are deposited, the less likely a catenaries form.
 
 ![alt text](images/image16.jpg)
 
-Phase 2: Line to Volume / Proof 1: Phase 2 marked the beginning of control. This catalog depicts ten identical models, each exhibiting the subtle variations that occur in the process as a result of external factors such as a subtle change in temperature or a slight increase in air flow.
+> Phase 2: Line to Volume / Proof 1: Phase 2 marked the beginning of control. This catalog depicts ten identical models, each exhibiting the subtle variations that occur in the process as a result of external factors such as a subtle change in temperature or a slight increase in air flow.
 
 ![alt text](images/image7.jpg)
 
-004 | Blurred lines |  DP Research | Andrew Reitz & Matt Leta
+> _Blurred Lines_ - Degree Project Research by Andrew Reitz & Matt Leta
 
 ![alt text](images/image18.jpg)
 
-Diagram 1: Process of the digital input to physical output. Diagram 2: Density - There is a threshold between what is expected and what is not. For instance, if 60 strands are digitally inputted across a width of 2 inches, the results are straight slumped fibers. If the digital input is 70, the result is a material computation, which is a series of self-organizing intricately affecting segments of each other fiber in a neighboring condition that ultimately affects the whole. Diagram 4: Pattern of Extrusions. This diagram indicates the results of what occurs when a strand or two is culled from the system.
+> Diagram 1: Process of the digital input to physical output. Diagram 2: Density - There is a threshold between what is expected and what is not. For instance, if 60 strands are digitally inputted across a width of 2 inches, the results are straight slumped fibers. If the digital input is 70, the result is a material computation, which is a series of self-organizing intricately affecting segments of each other fiber in a neighboring condition that ultimately affects the whole. Diagram 4: Pattern of Extrusions. This diagram indicates the results of what occurs when a strand or two is culled from the system.
 
 ![alt text](images/image3.jpg)
 
-Phase 3: Emergent Repetition - Phase 3 marked the beginning of an actual loss of fidelity. This catalog documents ten models, each with the same digital input and a variety of different physical outputs. All models exhibit similar qualities. Where the catenaries occur, bundling takes effect. Where the plateaus emerge, ripples form. We began to extrapolate architectural values based on conditions of visibility and sound absorption.
+> Phase 3: Emergent Repetition - Phase 3 marked the beginning of an actual loss of fidelity. This catalog documents ten models, each with the same digital input and a variety of different physical outputs. All models exhibit similar qualities. Where the catenaries occur, bundling takes effect. Where the plateaus emerge, ripples form. We began to extrapolate architectural values based on conditions of visibility and sound absorption.
 
 ![alt text](images/image11.jpg)
 
-Phase 3: Emergent Repetition - This photograph exhibits the intricate “ripples" that emerge during the fabrication/3d printing process. The uncontrollability of these effects met with controllability of the digital input, directed the research into a new phase that is deemed "the modulation”
+> Phase 3: Emergent Repetition - This photograph exhibits the intricate “ripples" that emerge during the fabrication/3d printing process. The uncontrollability of these effects met with controllability of the digital input, directed the research into a new phase that is deemed "the modulation”
 
 ---
 
@@ -120,21 +101,22 @@ Phase 3: Emergent Repetition - This photograph exhibits the intricate “ripples
 
 ![alt text](images/image2.jpg)
 
- Bioprinter: David Ruy | BioPrinter design: Richard Sarrach | Synthetic Biologists: Oliver Medvedik and Nina Tandon 
+ > Bioprinter: David Ruy, BioPrinter design: Richard Sarrach, Synthetic Biologists: Oliver Medvedik and Nina Tandon 
 
- ![alt text](images/image14.jpg)
+ ![alt text](images/image14.png)
 
- Bioprinter: David Ruy | BioPrinter design: Richard Sarrach | Synthetic Biologists: Oliver Medvedik and Nina Tandon 
+ > Bioprinter: David Ruy, BioPrinter design: Richard Sarrach, Synthetic Biologists: Oliver Medvedik and Nina Tandon 
 
  ---
 
  ## Cupcake: Frankenbot
 
-
 ![alt text](images/image10.jpg)
 
 ![alt text](images/image5.jpg)
 
+---
 
+![alt text](images/image17.jpg)
 
 
