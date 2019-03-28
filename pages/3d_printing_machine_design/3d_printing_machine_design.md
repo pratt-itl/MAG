@@ -49,7 +49,10 @@ The following has to do with a new way to think about tools in the institute.
   <img src="images/image9.gif">
   </div>
 </div>
+<br>
 </div>
+
+> Plastic printing BKMM (left) and Clay extruding delta robot (right)
 
 ---
 

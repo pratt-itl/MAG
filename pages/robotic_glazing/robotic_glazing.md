@@ -47,7 +47,7 @@ Robotics in the creative disciplines has the potential to recast the entire fiel
 
 ## Touch
 
-![](images/gripper.png)
+![](images/gripper.PNG)
 
 > Smart Hard Gripper: Pressure sensitive feedback system that can be calibrated to understand how much force it is generating on an object.
 
