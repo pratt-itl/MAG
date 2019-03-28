@@ -685,3 +685,11 @@ pre {
   color: #000 !important;
   background-color: #fff;
 }
+
+
+em {
+  font-style: unset;
+  background-color: #000000;
+  color: white;
+  padding: 1px;
+}
