@@ -16,7 +16,7 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
-This research topic encompasses a number of research areas that are currently undertaken by **MAG** at **ITL**. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for to better inform our decision making process.  
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 We have categorized our research areas based on a number of anthropocentric and non-anthropocentric factors. They include anything from building performances, built ecologies - building, and environments in the post-anthropocene. On the other hand, human factors under investigations include, 
 
@@ -28,23 +28,15 @@ Our research was initiated by a series of conversations with our potential colla
 
 ### Spatial Analytics with Machine Learning
 
-This research topic encompasses a number of research areas that are currently undertaken by **MAG** at **ITL**. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This research topic encompasses a number of research areas that are currently undertaken by **MAG** at **ITL**. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
+This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/3H8r1qbow5g?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/6aabfe262db34c9bbdc76283030bc309/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/k5vkxq4vUIE?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/eye-in-the-sky-6aabfe262db34c9bbdc76283030bc309?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Eye in the Sky</a>
-    by <a href="https://sketchfab.com/itl?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">itl</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>
 
 ------
 
@@ -52,7 +44,7 @@ This research topic encompasses a number of research areas that are currently un
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/I9Rmb03NNyI?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/hK3gyuu9gZc?rel=0;&autoplay=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -68,33 +60,13 @@ This research topic encompasses a number of research areas that are currently un
 </p>
 </div>
 
-<div class="container">
-<div class="row">
-  <div class="col">
-  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/168.embed"></iframe>
-  </div>
-  <div class="col">
-  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/170.embed"></iframe>
-  </div>
-</div>
-</div>
-
 We are also developing a dashboard system that display both the overall 3D information and  individual sensor information.
 
-<div class="container">
-<div class="row">
-  <div class="col">
-  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/168.embed"></iframe>
-  </div>
-  <div class="col">
-  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/170.embed"></iframe>
-  </div>
-</div>
-</div>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/168.embed"></iframe>
 
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/170.embed"></iframe>
 
-
-
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/172.embed"></iframe>
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
