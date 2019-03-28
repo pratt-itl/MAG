@@ -41,15 +41,31 @@ We also extract data for body gestures and how people interact with objects such
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
 <div class="container">
+
 <div class="row">
   <div class="col">
-  <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/6aabfe262db34c9bbdc76283030bc309/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+    <center>Machine Learning Computer Vision</center>
+  </div>
+  <div class="col">
+    <center>Environmental Sensor Pack</center>
+  </div>
+  <div class="col">
+    <Center>Stereo SLAM Realtime 3D Capture</Center> 
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+  <div class="sketchfab-embed-wrapper"><iframe width="100%" height="300" src="https://sketchfab.com/models/6aabfe262db34c9bbdc76283030bc309/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
   </div>
 
   <div class="col">
-  <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/25c09bfb59fe45f8b20d7cc35b357f5c/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+  <div class="sketchfab-embed-wrapper"><iframe width="100%" height="300" src="https://sketchfab.com/models/25c09bfb59fe45f8b20d7cc35b357f5c/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div></div>
+
+<div class="col">
+  <div class="sketchfab-embed-wrapper"><iframe width="100%" height="300" src="https://sketchfab.com/models/60d659e402dc48a8a67a7fb72cf541c6/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+  </div></div>
+
 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/OEQaDA0RMyA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
