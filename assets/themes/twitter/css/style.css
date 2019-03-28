@@ -365,7 +365,7 @@ th {
 }
 
 #content {
-  transition: margin-left 1s;
+  transition: margin-left .5s;
   padding-top: 30px;
   padding-left: 100px;
   padding-right: 100px;
