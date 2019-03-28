@@ -1,53 +1,54 @@
 <script defer>
-(function (){
-    const sfUrl ='https://api.sketchfab.com/v3/models/'
-    window.CreateSketchfabCard = function(projName, projDesc, projUrl, sfId, sectionId){
-        // while(window.$ === null || window.$ === undefined){}
-        let sfThumbUrl = sfUrl + sfId;
-        fetch(sfThumbUrl)
+  (function () {
+    const sfUrl = 'https://api.sketchfab.com/v3/models/'
+    window.CreateSketchfabCard = function (projName, projDesc, projUrl, sfId, sectionId) {
+      // while(window.$ === null || window.$ === undefined){}
+      let sfThumbUrl = sfUrl + sfId;
+      fetch(sfThumbUrl)
         .then((response => response.json()))
-        .then(function(data){
-            console.log("This is my data",data);
-            let thumb = data ? data.thumbnails.images[2].url : '';
-            let card = createCard(projName, projDesc, projUrl, thumb);
-            document.getElementById(sectionId).appendChild(card);
+        .then(function (data) {
+          console.log("This is my data", data);
+          let thumb = data ? data.thumbnails.images[2].url : '';
+          let card = createCard(projName, projDesc, projUrl, thumb);
+          document.getElementById(sectionId).appendChild(card);
         });
     }
     const defaultThumb = '';
-    window.CreateImageCard = function(projName, projDesc, projUrl, dir, thumb, sectionId){
-        if(!thumb || thumb === null || thumb === undefined){
-            thumb = defaultThumb;
-        }
-        let pathStart = '{{ BASE_PATH }}';
-        pathStart = pathStart ? pathStart : "";
-        let card = createCard(projName, projDesc, projUrl, thumb ? ('{{ BASE_PATH }}' + dir + '/images/' + thumb) : undefined);
-        document.getElementById(sectionId).appendChild(card);
-    }
-
-    function createCard(projName, projDesc, projUrl, thumb){
+    window.CreateImageCard = function (projName, projDesc, projUrl, dir, thumb, sectionId) {
+      if (!thumb || thumb === null || thumb === undefined) {
+        thumb = defaultThumb;
+      }
       let pathStart = '{{ BASE_PATH }}';
       pathStart = pathStart ? pathStart : "";
-        let card = '';
-        card += '<div class="card-header">'
-        card += '<a class="sticker-title">MEDIUM ANALYSIS GROUP</a>'
-        card += '</div>';
-        // if(thumb){
-        //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
-        // }
-        card += '<div class="card-body">'
-        card += '<h4 style="font-weight: bold">' + projName + '</h4>'
-        card += '<p class="card-text">' + projDesc + '</p>';
-        card += '</div>';
-        card +=  '<div class="card-footer">'
-        card +=     '<a href="'+ pathStart + projUrl + '" class="btn btn-warning">Read</a>'
-        card +=  '</div>';
-        var div = document.createElement('div');
-        div.className = 'card card-home card-project';
-        div.innerHTML = card;
-        return div;
+      let card = createCard(projName, projDesc, projUrl, thumb ? ('{{ BASE_PATH }}' + dir + '/images/' + thumb) :
+        undefined);
+      document.getElementById(sectionId).appendChild(card);
     }
 
-    function imageExists(image_url){
+    function createCard(projName, projDesc, projUrl, thumb) {
+      let pathStart = '{{ BASE_PATH }}';
+      pathStart = pathStart ? pathStart : "";
+      let card = '';
+      card += '<div class="card-header">'
+      card += '<a class="sticker-title">MEDIUM ANALYSIS GROUP</a>'
+      card += '</div>';
+      // if(thumb){
+      //   card += '<a style="background-color: auto" href="'+ pathStart + projUrl + '"><img class="card-img-top" src="'+ thumb + '"></a>';
+      // }
+      card += '<div class="card-body">'
+      card += '<h4 style="font-weight: bold">' + projName + '</h4>'
+      card += '<p class="card-text">' + projDesc + '</p>';
+      card += '</div>';
+      card += '<div class="card-footer">'
+      card += '<a href="' + pathStart + projUrl + '" class="btn btn-warning">Read</a>'
+      card += '</div>';
+      var div = document.createElement('div');
+      div.className = 'card card-home card-project';
+      div.innerHTML = card;
+      return div;
+    }
+
+    function imageExists(image_url) {
 
       var http = new XMLHttpRequest();
 
@@ -56,7 +57,7 @@
 
       return http.status != 404;
     }
-})()
+  })()
 </script>
 
 <!-- CONTENT -->
@@ -64,10 +65,12 @@
   <div class="row-fluid post-full">
     <div class="span12">
       <div class="content">
-          <div style="padding-bottom: 53px;">
-              <img style="float: right" src="{{ BASE_PATH }}/assets/images/global/mag_black_white_header.PNG" width="170" height="75" alt="">
-           <img style="float: left" src="{{ BASE_PATH }}/assets/images/global/itl_black_white_header.PNG" width="140" height="75" alt="">
-          </div>
+        <div style="padding-bottom: 53px;">
+          <img style="float: right" src="{{ BASE_PATH }}/assets/images/global/mag_black_white_header.PNG" width="170"
+            height="75" alt="">
+          <img style="float: left" src="{{ BASE_PATH }}/assets/images/global/itl_black_white_header.PNG" width="140"
+            height="75" alt="">
+        </div>
         <br>
         <hr class="homebreak" style="border-top-width: 40px !important">
         {{ content }}
@@ -102,14 +105,17 @@
         <br>
         <hr class="homebreak">
         <div>
-          <p class="sticker-title" style="margin: 0; max-width: 70px;">TEAM</p>
-          <p>Richard Sarrach   <strong>Director of Interdisciplinary Technology</strong> <br />
-            Ted Ngai  <strong>ITL Senior Researcher</strong> <br />
-            Scott Sorenson  <strong>ITL Senior Researcher</strong> <br />
-            Leland Jobson  <strong>ITL Researcher</strong> <br />
-            David Mans  <strong>ITL Researcher</strong> <br />
-            Kyriaki Goti <strong>ITL Researcher</strong> <br /></p>
-
+          <div style="float: left">
+            <p class="sticker-title" style="margin: 0; max-width: 70px;">TEAM</p>
+            <p>Richard Sarrach <strong>Director of Interdisciplinary Technology</strong> <br />
+              Ted Ngai <strong>ITL Senior Researcher</strong> <br />
+              Scott Sorenson <strong>ITL Senior Researcher</strong> <br />
+              Leland Jobson <strong>ITL Researcher</strong> <br />
+              David Mans <strong>ITL Researcher</strong> <br />
+              Kyriaki Goti <strong>ITL Researcher</strong> <br />
+            </p>
+          </div>
+          <div style="float: right">
             <p class="sticker-title" style="margin: 0; max-width: 70px;">RAs</p>
             <p>
               Xian Ang<br />
@@ -123,7 +129,8 @@
               Forrest Pailes<br />
               Noah Rosenberg <br />
               Anna Seidman<br />
-          </p>
+            </p>
+          </div>
         </div>
         <br>
         <br>
