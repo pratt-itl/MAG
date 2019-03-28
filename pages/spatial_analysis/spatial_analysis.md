@@ -24,17 +24,13 @@ We have categorized our research areas two domains: Public and Private. Public s
 
 ### Spatial Analytics with Machine Learning
 
-This research area explore the use of state of the art machine learning algorithm in object detection and pose estimation for 
+This research proposes a fully automated, autonomous, and anonymous approach to spatial and behavioral tracking using uncalibrated and unordered video footages and Building Information Models. The proposed technology allows us to utilize video recordings from most existing security camera system and extract information on how people interact with objects in space and their tendencies to congregate in certain areas. The spatial and behavioral tracking and analysis uses state of the art machine learning algorithm in object detection and pose estimation to produce a 3-dimensional point cloud dataset which can then be visualized as a heatmap for understanding activity concentrations. 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+We also extract data for body gestures and how people interact with objects such as urban furniture, sculptures, lawn, trees, and other types of and  The system targets the archaic practice in urban design and architecture where spatial usage pattern data is collected with a survey by hand and on foot, which leads to highly inaccurate, unintelligibly biased, and practically useless results.  
 
-This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
-
-
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5BlZhzHAnjA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/OEQaDA0RMyA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -56,7 +52,7 @@ This research topic encompasses a number of research areas that are currently un
 </div></div>
 
 
-
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OEQaDA0RMyA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
@@ -75,10 +71,6 @@ We are also developing a dashboard system that display both the overall 3D infor
   </div>
 </div>
 </div>
-
-
-
-
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
