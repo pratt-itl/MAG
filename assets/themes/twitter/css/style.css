@@ -374,19 +374,15 @@ th {
 
 
 blockquote {
-  border-left-width: 1px;
-  border-left-style: solid;
-  border-left-color: rgb(200, 200, 200);
-  color: rgb(100, 100, 100);
-  padding-left: 40px;
-  margin-top: 10px;
-  margin-bottom: 40px;
+  text-align: center;
+  border-top-color: black;
+  border-top: solid;
 }
 
 blockquote p {
-  font-size: 20px;
-  line-height: 30px;
-  font-family: 'IBM Plex Mono', sans-serif !important;
+  font-size: 1rem !important;
+  /* padding-top: 0 !important;
+  margin-top: 0 !important; */
 }
 
 .introtext {
