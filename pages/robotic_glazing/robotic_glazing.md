@@ -1,13 +1,13 @@
 ---
 layout: process
-title: M.A.G //001
+title: M.A.G //003
 category: M.A.G
 subcategory: 
 description: Sentient Collaborative Robotics // Scanning & Glazing
 dependencies: [ 'Lines' ]
 platforms: [ 'Rhinoceros','Grasshopper' ]
 heroimg: fluttering.PNG
-order: 1
+order: 3
 thumb: 
 ---
 
