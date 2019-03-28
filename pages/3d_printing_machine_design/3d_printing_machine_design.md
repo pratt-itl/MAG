@@ -56,7 +56,7 @@ The following has to do with a new way to think about tools in the institute.
 
 ---
 
-## Large Scale Extruders
+### Large Scale Extruders
 
 ![alt text](images/image4.jpg)
 
@@ -64,7 +64,7 @@ The following has to do with a new way to think about tools in the institute.
 
 ---
 
-## Extrusion Spans
+### Extrusion Spans
 
 ![alt text](images/image6.jpg)
 
@@ -100,7 +100,7 @@ The following has to do with a new way to think about tools in the institute.
 
 ---
 
-## Bioprinter
+### Bioprinter
 
 ![alt text](images/image2.jpg)
 
@@ -112,7 +112,7 @@ The following has to do with a new way to think about tools in the institute.
 
  ---
 
- ## Cupcake: Frankenbot
+ ### Cupcake: Frankenbot
 
 ![alt text](images/image10.jpg)
 

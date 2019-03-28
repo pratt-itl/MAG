@@ -26,7 +26,7 @@ Our research was initiated by a series of conversations with our potential colla
 
 ------
 
-## Spatial Analytics with Machine Learning
+### Spatial Analytics with Machine Learning
 
 This research topic encompasses a number of research areas that are currently undertaken by **MAG** at **ITL**. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
@@ -48,7 +48,7 @@ This research topic encompasses a number of research areas that are currently un
 
 ------
 
-## IoT Senor Network for Environmental and Behavioral Tracking
+### IoT Senor Network for Environmental and Behavioral Tracking
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
@@ -102,7 +102,7 @@ This research topic encompasses a number of research areas that are currently un
 
 ------
 
-## Vision Based Building Occupancy Tracking System
+### Vision Based Building Occupancy Tracking System
 
 We are developing a computer vision based building occupancy tracking system that can acquire real-time and static 3D information to assess a building's occupancy state. The system relies on Simultaneous Localization and Mapping (SLAM) for realtime and Structure From Motion (SFM) for static data acquisition.
 
@@ -131,7 +131,7 @@ This research topic encompasses a number of research areas that are currently un
 
 ------
 
-## Machine Learning Library Development for Spatial Recognition
+### Machine Learning Library Development for Spatial Recognition
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 

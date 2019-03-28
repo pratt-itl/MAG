@@ -45,7 +45,7 @@ Robotics in the creative disciplines has the potential to recast the entire fiel
 
 ---
 
-## Touch
+### Touch
 
 ![](images/gripper.PNG)
 

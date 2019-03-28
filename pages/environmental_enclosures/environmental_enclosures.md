@@ -59,7 +59,7 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 
 ---
 
-## Acoustical Material Testing
+### Acoustical Material Testing
 
 In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
 
@@ -83,7 +83,7 @@ This proposal involve 2 stages of acoustical testing. The first is to record and
 
 ------
 
-## Material Testing Methodology
+### Material Testing Methodology
 
 Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to do a full spectrum sweep between 20Hz to 20,000Hz. For equipment we are using a measurement microphone that is factory calibrated and records a flat profile. We setup a rig so the speaker and microphone is 1 meter apart, and the testing material is right up against the speaker to minimize reflected sound. We take a control measurement without any materials prior to each test. Measurement is then collected and processed with Python.
 
@@ -103,7 +103,7 @@ Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz 
 
 ------
 
-## Our Measurements
+### Our Measurements
 
 #### Environmental Noise Recording Methodology
 
@@ -154,7 +154,7 @@ Based on this information, we collated our recordings and profiled spaces that c
 ------
 
 
-## Data Processing Protocol
+### Data Processing Protocol
 
 In addition to recording the sound pressure levels,  the sound is also recorded as a sound file in .WAV 24bit / 96kHz format. The .WAV file is then brought into Audacity where we use its Fast Fourier Transform (FFT) algorithm to plot the spectrum. However, since Audacity’s spectral-graph is not weighted to human hearing, the data is exported out as a text file and then brought into Python to apply A-weighting with the following equation.
 
@@ -197,7 +197,7 @@ This is the frequency spectrum with A-weighting applied to approximate human hea
 ------
 
 
-## Measurement Results
+### Measurement Results
 
 From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet work environment baseline. The peak decibel level in that space is 53 dBA, well below normal conversation level, which is around 60 dB. 
 
@@ -383,7 +383,7 @@ Max SPL : **77.6 dBA**
 
 ------
 
-## Conclusion
+### Conclusion
 
 From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet 
 

@@ -432,6 +432,14 @@ h2 {
   font-size: 3.4em;
   font-family: 'Rubik', sans-serif;
 }
+h3 {
+  text-rendering: geometricPrecision;
+  font-size: 2.3em;
+  padding-bottom: 30px;
+  /* margin-top: 60px; */
+  font-size: 2.6em;
+  font-family: 'Rubik', sans-serif;
+}
 
 
 h4 {
