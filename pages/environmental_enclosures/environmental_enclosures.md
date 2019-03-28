@@ -13,7 +13,6 @@ thumb:
 
 <hr class="homebreak">
 ## Autonomous Environmental Enclosures // Escape Pod
-
 ---
 
 Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. Evolving workplace culture, behaviors and desires, as well as the rise in diverse collaborative project management, have placed undue strain on the physical constraints of interior spatial and furniture design. Beholden to arcs of financial and temporal pressures, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform opposed to comprehensive renovations required. 
@@ -60,6 +59,8 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 ---
 
 ### Acoustical Material Testing
+
+![](./images/IMG_9034.jpg)
 
 In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
 
@@ -176,23 +177,36 @@ In addition to recording the sound pressure levels,  the sound is also recorded 
 
 
 
-##### A-Weighting Graph
+##### A-Weighting
 
  A-weighting function generated based the equation above. A-weighting modifies the sound file to simulate human hearing perception. Human hearing is less sensitive in the low and high frequency range. Since, our recording is using a measurement microphone that records a flat profile. We applied this weighting function to all our sound recording so the noise environment closely resembles our hearing.
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/145.embed"></iframe>
+<div class="container">
+  <div class="row">
+  <div class="col">
+  <center>A-Weighting Graph</center>
+  </div>
+  <div class="col">
+  <center>Unweighted Recording</center>
+  </div>
+  <div class="col">
+  <center>A-Weighted Recording</center>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/145.embed"></iframe>
+  </div>
+  <div class="col">
+  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/147.embed"></iframe>
+  </div>
+  <div class="col">
+  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/149.embed"></iframe>
+  </div>
+</div>
+</div>
 
-##### Unweighted Recording
 
-This is the frequency spectrum graph straight from the audio recording.
-
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/147.embed"></iframe>
-
-##### A-Weighted Recording
-
-This is the frequency spectrum with A-weighting applied to approximate human hearing.
-
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/149.embed"></iframe>
 
 ------
 
@@ -203,27 +217,17 @@ From the recordings, we established that the profile from the Pratt Career Cente
 
 ![alt text](images/DSC03713-HDR.jpg)
 
-Location : **Pratt Career Center** 
-
-Noise Source : **Ambient** 
-
-Distance from Source : **Ambient**
-
-Max SPL : **53 dBA**
+Location : **Pratt Career Center** <br>Noise Source : **Ambient** <br>Distance from Source : **Ambient**<br>Max SPL : **53 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/143.embed"></iframe>
+
+------
 
 And as a comparison, this noise profile is from an even quieter office but with a 3D printer running. As you can see, the sound pressure level is lower mostly below 1 kHz and the increased noise level is mostly in the region of higher frequencies above 2 kHz. But the SPL reading shows a lower level at 50.5 dBA.
 
 ![alt text](images/ITL-01.jpg)
 
-Location : **ITL Office** 
-
-Noise Source : **3D printer** 
-
-Distance from Source : **1m**
-
-Max SPL : **50.5 dBA**
+Location : **ITL Office** <br>Noise Source : **3D printer** <br>Distance from Source : **1m** <br>Max SPL : **50.5 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/131.embed"></iframe>
 
@@ -231,13 +235,7 @@ Max SPL : **50.5 dBA**
 
 ![alt text](images/ITL-03.jpg)
 
-Location : **ITL Office** 
-
-Noise Source : **Point source chop Saw** 
-
-Distance from Source : **2m**
-
-Max SPL : **101.1 dBA**
+Location : **ITL Office** <br>Noise Source : **Point source chop Saw** <br>Distance from Source : **2m**<br>Max SPL : **101.1 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/129.embed"></iframe>
 
@@ -245,13 +243,7 @@ Max SPL : **101.1 dBA**
 
 ![alt text](images/HH-04.jpg)
 
-Location : **School of Architecture Higgins Hall Lobby** 
-
-Noise Source : **Ambient noise, conversation and foot traffic** 
-
-Distance from Source : **Ambient**
-
-Max SPL : **81.8 dBA**
+Location : **School of Architecture Higgins Hall Lobby** <br>Noise Source : **Ambient noise, conversation and foot traffic** <br>Distance from Source : **Ambient**<br>Max SPL : **81.8 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/125.embed"></iframe>
 
@@ -259,13 +251,7 @@ Max SPL : **81.8 dBA**
 
 ![alt text](images/HH-05.jpg)
 
-Location : **School of Architecture Higgins Hall 1 Floor Seating Area by the Vending Machine** 
-
-Noise Source : **Ambient noise, conversation and foot traffic** 
-
-Distance from Source : **1m to Vending Machine**
-
-Max SPL : **77.6 dBA**
+Location : **School of Architecture Higgins Hall 1 Floor Seating Area by the Vending Machine** <br>Noise Source : **Ambient noise, conversation and foot traffic** <br>Distance from Source : **1m to Vending Machine**<br>Max SPL : **77.6 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/123.embed"></iframe>
 
@@ -273,13 +259,7 @@ Max SPL : **77.6 dBA**
 
 ![alt text](images/HH-03.jpg)
 
-Location : **School of Architecture Higgins Hall - CNC Shop** 
-
-Noise Source : **CNC Machine** 
-
-Distance from Source : **1m**
-
-Max SPL : **107.8 dBA**
+Location : **School of Architecture Higgins Hall - CNC Shop** <br>Noise Source : **CNC Machine** <br>Distance from Source : **1m**<br>Max SPL : **107.8 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/121.embed"></iframe>
 
@@ -287,13 +267,7 @@ Max SPL : **107.8 dBA**
 
 ![alt text](images/HH-02.jpg)
 
-Location : **School of Architecture Higgins Hall - Hallway outside CNC Shop** 
-
-Noise Source : **CNC Machine + ambient foot traffic** 
-
-Distance from Source : **1m from the door of CNC shop**
-
-Max SPL : **79.3 dBA**
+Location : **School of Architecture Higgins Hall - Hallway outside CNC Shop** <br>Noise Source : **CNC Machine + ambient foot traffic** <br>Distance from Source : **1m from the door of CNC shop**<br>Max SPL : **79.3 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/119.embed"></iframe>
 
@@ -301,13 +275,7 @@ Max SPL : **79.3 dBA**
 
 ![alt text](images/HH-01.jpg)
 
-Location : **School of Architecture Higgins Hall - 3D Print Shop** 
-
-Noise Source : **Spray Booth Fan** 
-
-Distance from Source : **1m**
-
-Max SPL : **81 dBA**
+Location : **School of Architecture Higgins Hall - 3D Print Shop** <br>Noise Source : **Spray Booth Fan** <br>Distance from Source : **1m**<br>Max SPL : **81 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/127.embed"></iframe>
 
@@ -315,13 +283,7 @@ Max SPL : **81 dBA**
 
 ![alt text](images/ITL-05.jpg)
 
-Location : **Main Campus Security Booth** 
-
-Noise Source : **Ambient Traffic** 
-
-Distance from Source : **Ambient**
-
-Max SPL : **75.1 dBA**
+Location : **Main Campus Security Booth** <br>Noise Source : **Ambient Traffic** <br>Distance from Source : **Ambient**<br>Max SPL : **75.1 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/139.embed"></iframe>
 
@@ -329,13 +291,7 @@ Max SPL : **75.1 dBA**
 
 ![alt text](images/ITL-07.jpg)
 
-Location : **Cafeteria** 
-
-Noise Source : **Ambient Traffic** 
-
-Distance from Source : **Ambient**
-
-Max SPL : **79.3 dBA**
+Location : **Cafeteria** <br>Noise Source : **Ambient Traffic** <br>Distance from Source : **Ambient**<br>Max SPL : **79.3 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/137.embed"></iframe>
 
@@ -343,13 +299,7 @@ Max SPL : **79.3 dBA**
 
 ![alt text](images/DSC03695-HDR.jpg)
 
-Location : **Engineering Building Wood Shop** 
-
-Noise Source : **Machinery** 
-
-Distance from Source : **1m**
-
-Max SPL : **79.5 dBA**
+Location : **Engineering Building Wood Shop** <br>Noise Source : **Machinery** <br>Distance from Source : **1m**<br>Max SPL : **79.5 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/135.embed"></iframe>
 
@@ -357,13 +307,7 @@ Max SPL : **79.5 dBA**
 
 ![alt text](images/DSC03684-HDR.jpg)
 
-Location : **Engineering Building Print Lab** 
-
-Noise Source : **Printers** 
-
-Distance from Source : **1m**
-
-Max SPL : **77 dBA**
+Location : **Engineering Building Print Lab** <br>Noise Source : **Printers** <br>Distance from Source : **1m**<br>Max SPL : **77 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/133.embed"></iframe>
 
@@ -371,21 +315,11 @@ Max SPL : **77 dBA**
 
 ![alt text](images/ITL-06.jpg)
 
-Location : **Engineering Building 1st Floor Hallway** 
-
-Noise Source : **Video** 
-
-Distance from Source : **2m**
-
-Max SPL : **77.6 dBA**
+Location : **Engineering Building 1st Floor Hallway** <br>Noise Source : **Video** <br>Distance from Source : **2m**<br>Max SPL : **77.6 dBA**
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/141.embed"></iframe>
 
-------
 
-### Conclusion
-
-From the recordings, we established that the profile from the Pratt Career Center can be used as our normal quiet 
 
 ------
 

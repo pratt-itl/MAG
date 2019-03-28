@@ -64,11 +64,20 @@ This research topic encompasses a number of research areas that are currently un
 
 We are also developing a dashboard system that display both the overall 3D information and  individual sensor information.
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/168.embed"></iframe>
+<div class="container">
+<div class="row">
+  <div class="col">
+  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/168.embed"></iframe>
+  </div>
+  <div class="col">
+  <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/170.embed"></iframe>
+  </div>
+</div>
+</div>
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/170.embed"></iframe>
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/172.embed"></iframe>
+
+
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
