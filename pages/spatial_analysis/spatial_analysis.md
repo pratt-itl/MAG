@@ -16,7 +16,7 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
-This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
+The primary focus of this research is *spatial prospecting - to collect, analyze, and mine spatial data* to reveal macro and micro structures hidden deep in our spatial and temporal dimensions. We are developing novel ways to combine machine learning, computer vision, photogrammetry, IoT devices, industrial design, architecture, and urban design, to allow us to gain insights into the relationship between space, design, and human behavior. There are several research areas that are currently undertaken by MAG under this topic., each with its own subset of challenges and goals. 
 
 We have categorized our research areas based on a number of anthropocentric and non-anthropocentric factors. They include anything from building performances, built ecologies - building, and environments in the post-anthropocene. On the other hand, human factors under investigations include, 
 
@@ -38,6 +38,8 @@ This research topic encompasses a number of research areas that are currently un
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5BlZhzHAnjA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OEQaDA0RMyA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ------
@@ -46,21 +48,24 @@ This research topic encompasses a number of research areas that are currently un
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/OEQaDA0RMyA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<div class="row">
+  <div class="col">
+  <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/6aabfe262db34c9bbdc76283030bc309/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+  </div>
+
+  <div class="col">
+  <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/25c09bfb59fe45f8b20d7cc35b357f5c/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+</div></div>
+
+
 
 
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
-<div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/itl-office-cf230a87371c4df18d9ab2301bd7e731?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ITL Office</a>
-    by <a href="https://sketchfab.com/itl?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">itl</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 We are also developing a dashboard system that display both the overall 3D information and  individual sensor information.
 
@@ -93,18 +98,11 @@ We are developing a computer vision based building occupancy tracking system tha
 
 This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
 
-<div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
 
-
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/itl-18th-st-f4564279025c427f9112eff864cf9e2c?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ITL 18th St</a>
-    by <a href="https://sketchfab.com/itl?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">itl</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 <p id="sensor1"></p>
 
