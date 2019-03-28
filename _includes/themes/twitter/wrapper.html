@@ -21,9 +21,11 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.0/moment.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js">
+  </script>
 
-  
+
 
 
   <!-- Le styles -->
@@ -31,14 +33,15 @@
   <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
   <link href="{{ ASSET_PATH }}/css/fonts.css" rel="stylesheet" type="text/css" media="all">
   <link href="{{ ASSET_PATH }}/css/images.css" rel="stylesheet" type="text/css" media="all">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
 
-  
+
   <!-- FontAwesome -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
-    crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-    <!-- <script>
+  <!-- <script>
         $(function(){
     
         initMCustomScrollbar();
@@ -76,10 +79,10 @@
       document.getElementById("sidebarBtn").classList.remove("fa-bars");
       document.getElementById("sidebarBtn").classList.add("fa-times");
       document.getElementById("itlAddr").style.color = "#000";
-      if(window.innerWidth < 1400){
+      if (window.innerWidth < 1400) {
         document.getElementById("magCards").classList.remove('card-deck');
         document.getElementById("magCards").classList.add('card-columns');
-        
+
       }
 
     }
@@ -94,9 +97,9 @@
       document.getElementById("sidebarBtn").classList.remove("fa-times");
       document.getElementById("sidebarBtn").classList.add("fa-bars");
       document.getElementById("itlAddr").style.color = "#fff";
-      if(window.innerWidth < 1400){
-      document.getElementById("magCards").classList.add('card-deck');
-      document.getElementById("magCards").classList.remove('card-columns');
+      if (window.innerWidth < 1400) {
+        document.getElementById("magCards").classList.add('card-deck');
+        document.getElementById("magCards").classList.remove('card-columns');
       }
     }
   </script>
@@ -110,41 +113,50 @@
     <!-- SIDEBAR -->
     <div id="sidebar">
       <div id="sidebar-content" style="padding: 35px;">
-          <a href="{{ BASE_PATH }}"><h2 class="sidenav-Header" style="margin-top: 0; padding-top: 0;">//</h2></a>
-          <ul>
-              {% assign ma = site.pages | where: "category", "M.A.G" %}
-              {% assign mags = ma | sort: 'order' %}
-              {% for mag in mags %}
-              <li><a href="{{ BASE_PATH }}{{ mag.url }}"><p>{{ mag.description }}</p></a></li>
-              {% endfor %}
-            </ul>
-            <div id="itlAddr" class="itlAddr" style="color: white; transition: all 1s;">
+        <a href="{{ BASE_PATH }}">
+          <h2 class="sidenav-Header" style="margin-top: 0; padding-top: 0;">//</h2>
+        </a>
+        <ul>
+          {% assign ma = site.pages | where: "category", "M.A.G" %}
+          {% assign mags = ma | sort: 'order' %}
+          {% for mag in mags %}
+          <li><a href="{{ BASE_PATH }}{{ mag.url }}">
+              <p>{{ mag.description }}</p>
+            </a></li>
+          {% endfor %}
+        </ul>
+        <div id="itlAddr" class="itlAddr" style="color: white; transition: all 1s;">
+          <small>© ITL MAG<br><br>
+            <div style="float: left; margin-right: 20px !important">
               <p style="font-size: 0.8rem">
-              <small>© ITL MAG<br><br>
-                <!-- <strong>Brooklyn</strong><br>
-                Pratt Institute<br>
+                <strong>Brooklyn</strong><br>
                 200 Willoughby Ave<br>
                 ENG 002<br>
                 Brooklyn, NY<br>
-                11205<br><br> -->
+                11205<br><br>
+              </p>
+            </div>
+            <div style="float: right;">
+              <p style="font-size: 0.8rem">
                 <strong>Manhattan</strong><br>
-                Medium Analysis Group<br>
                 123 18th St.<br>
                 3rd Floor<br>
                 New York, NY<br>
                 10011<br><br>
-              </small>
+              </p>
+            </div>
+          </small>
           </p>
-       </div>
+        </div>
       </div>
     </div>
     <!-- CONTENT (post.html, home.html, etc.) -->
     <div id="content">
       <!-- SIDEBAR BUTTON -->
       <div id="openSidebar">
-          <button onclick="openNav()" id="sidebarCollapse" class="btn btn-outline-secondary my-2 my-sm-0" type="button">
-              <i id="sidebarBtn" class="fa fa-bars"></i>
-            </button>
+        <button onclick="openNav()" id="sidebarCollapse" class="btn btn-outline-secondary my-2 my-sm-0" type="button">
+          <i id="sidebarBtn" class="fa fa-bars"></i>
+        </button>
       </div>
 
 
