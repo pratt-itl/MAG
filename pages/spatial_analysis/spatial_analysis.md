@@ -16,19 +16,15 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
-The primary focus of this research is *spatial prospecting - to collect, analyze, and mine spatial data* to reveal macro and micro structures hidden deep in our spatial and temporal dimensions. We are developing novel ways to combine machine learning, computer vision, photogrammetry, IoT devices, industrial design, architecture, and urban design, to allow us to gain insights into the relationship between space, design, and human behavior. There are several research areas that are currently undertaken by MAG under this topic., each with its own subset of challenges and goals. 
+The primary focus of this research is *spatial prospecting - to collect, analyze, and mine spatial data* to reveal human macro and micro structures hidden deep in our spatial and temporal dimensions. We are developing novel ways to combine machine learning, computer vision, photogrammetry, IoT devices, industrial design, architecture, and urban design, to allow us to gain insights into the relationship between space, design, and human behavior. There are several research areas that are currently undertaken by MAG under this topic., each with its own subset of challenges and goals. 
 
-We have categorized our research areas based on a number of anthropocentric and non-anthropocentric factors. They include anything from building performances, built ecologies - building, and environments in the post-anthropocene. On the other hand, human factors under investigations include, 
-
-Our research was initiated by a series of conversations with our potential collaborators and by the internal needs within the institute. It started simply as a way to ask simple question with regard to the nature of space. Is the room too big or too small? Is the layout efficient? Are the furniture enhancing or disrupting people's concentration? As architects, understanding how space affects our behavior is one of the fundamental foundations in our profession. However, the ability to see beyond the temporal dimension is only possessed by very few, such as Jane Jacobs' assertion that eyes on the street make a safe and intimate neighborhood. However, strong observation is only the beginning of the scientific method, and we need much more than doctrines in the age of big data to inform high level decisions that may impact many.... blurb
-
-
+We have categorized our research areas two domains: Public and Private. Public space analytics prioritizes itself with gathering anonymous spatial data in both urban and indoor environments so we can gain insight into how design can facilitate social interactions. Private space analytics, on the other hand, is predicated on the use of data to help facilitate planning and management.   
 
 ------
 
 ### Spatial Analytics with Machine Learning
 
-This research topic encompasses a number of research areas that are currently undertaken by MAG at ITL. The primary focus of this research is spatial prospecting - to collect, analyze, and mine spatial data to reveal macro and micro structures and behaviors that would be otherwise hidden from human senses, and to harness that knowledge for the betterment of our built environments.  
+This research area explore the use of state of the art machine learning algorithm in object detection and pose estimation for 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
