@@ -16,11 +16,11 @@ thumb: thumb.png
 ## 3d Printing / Machine Design // Clay & Large Format
 ---
 
+![alt text](images/3dp_spaghetti.gif)
+
 When confronted with a situation where there are no tools to do the things that we do, we need to create our own.
 
 The research that we conduct has always been seen as a form of digital craft―the relationship between the two has become ever more important with respect to how we think about the production of the built environment, the artifacts that surround us, and everyday items held in our hands. It has led us down a series of exciting paths, but the one at the forefront is the development of low-cost, open source, desktop manufacturing platforms. What started out as a project to build robots and 3d printers have grown into a manifesto on emancipation through tools. 
-
-![alt text](images/3dp_spaghetti.gif)
 
 This experience has changed the way we think about material and the way we understand making. The act of creating one’s own tools and instruments is about building new ways to engage and construct worlds.
 
@@ -29,6 +29,8 @@ We are increasingly asking remarkably and ever more complex tools to perceive, i
 the way we have have been educating our students have helped to position us favorably to not only meet this task but to lead others on how to negotiate the flow of information between analog and digital worlds.
 
 The following has to do with a new way to think about tools in the institute.
+
+<br>
 
 | Price Point |  $1,000,000 | $100,000           | $10,000             |   $1,000  |
 | Function    |  Research  | Machine Fabrication | Project Fabrication |  Support  |
