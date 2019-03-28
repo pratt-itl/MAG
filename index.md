@@ -4,7 +4,7 @@ title: Medium Analysis Group
 description: Exploring how data augments and mediates design processes by creating more intelligent feedback loops between the physical and virtual worlds. 
 ---
 
-## We are a space where Intellectual networks converge and future worlds are being prototyped.
+## A space where Intellectual networks converge and future worlds are being prototyped.
 
 The **Interdisciplinary Technology Lab** is a design and technology think tank that shapes discourse through pedagogical development, case studies, and new forms of knowledge dissemination. These pillars are cumulatively charting a course for both the future of education and the way we practice. ITL’s primary area of focus is built around the work of the Medium Analysis Group (MAG). It is here where we are developing a diverse network of applications in robotics, simulation, mechatronics, and collaborative computation that is laying the groundwork to take on the more difficult challenges that we are confronted with today through the design of more eloquent questions. It is this trajectory of thinking and practice that is placing the Institute at the vanguard of technological output and building an ecology of hard and soft tools that fortify creative inquiry and research while affording our community the opportunity to become change agents in their respective fields.
 
