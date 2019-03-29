@@ -20,13 +20,13 @@ thumb:
 
 > This flat-pack, easy to assemble system allows for deployment within various interior environments, providing an acoustical ‘bubble’ with customizable interior workspace for one or two occupants.
 
-Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. Evolving workplace culture, behaviors and desires, as well as the rise in diverse collaborative project management, have placed undue strain on the physical constraints of interior spatial and furniture design. Beholden to arcs of financial and temporal pressures, addressing these evolving needs often manifest in makeshift solutions that underwhelm and underperform opposed to comprehensive renovations required. 
+Contemporary work environments are all too often unable to keep up with the constantly shifting demands of its users. Evolving workplace culture, behaviors and desires, as well as the rise in diverse collaborative project management, have placed undue strain on the physical constraints of interior spatial and furniture design. Beholden to arcs of financial and temporal pressures, addressing these evolving needs often manifests in makeshift solutions that underwhelm and underperform, as opposed to the comprehensive renovations that are required. 
 
-Responding to these pressures, at the disjunct between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge, accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics providing a sub-space within an existing environment.
+Responding to these pressures, at the disjunct between workplace space-planning and dynamic use, the ‘Escape Pod’ provides a refuge, accommodating flexibility at both the spatial and furniture scale. The holistic approach towards the ‘Escape Pod’ tempers both use and performance in addition to pragmatics, providing a sub-space within an existing environment.
 
 ![](./images/2019.03.26 ITL ESCAPE POD RO EVENT REP EXPORT 001-01.png)
 
-The interior configuration, composed of a tabletop, chairs and pin-up surface, is sized appropriately to accommodate one to two individuals. Depending on occupancy or needs of users, the interior is customizable via a calibrated oversized peg-wall system that allows for adjustments of size and space of the interior environment.
+The interior configuration, composed of a tabletop, chairs and pin-up surface, is sized appropriately to accommodate one to two individuals. Depending on occupancy or needs of users, the interior is customizable via a calibrated oversized peg-wall system that allows for the adjustments of size and space to the interior environment.
 
 ![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 002-01.png)
 
@@ -44,7 +44,7 @@ Adjustable lighting and constant ventilation, achieved without compromising acou
 
 Pragmatically, the escape pod by design is deployable in a multitude of spaces given its flat-pack shipment and ease of assembly. This allows unskilled labor to efficiently deliver, move and configure the pod using the door and standard elevator bay as a design constraint. Simple mechanical connections with limited tools and drop in material layers are designed for ease of construction by a limited number of individuals. 
 
-The resulting ‘escape pods’ can be a stand-alone addition to a work environment or configured in a handful of organizations from bays to linked connection producing larger spaces. Once assembled, added flexibility with industrial casters truly supports the promise of adaptable microenvironments design.
+The resulting ‘escape pods’ can be a stand-alone addition to a work environment, or configured in a handful of organizations from bays to linked connection producing larger spaces. Once assembled, added flexibility with industrial casters truly supports the promise of adaptable microenvironments design.
 
 ![](./images/2019.03.25 ITL ESCAPE POD RO EVENT REP EXPORT 006.1-01.png)
 
@@ -60,11 +60,11 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 
 ![](./images/IMG_9034.jpg)
 
-In accounting for acoustical properties of building materials, a single number Noise Reduction Coefficient (NRC) or Sound Transmission Class (STC) value is used by the industry as standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
+In accounting for acoustical properties of building materials, a single-value Noise Reduction Coefficient (NRC), or Sound Transmission Class (STC) value, is used by the industry as a standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
 
 [^1]: http://www.montana.edu/rmaher/eele417_fl14/Determination_of_STC.pdf
 
-While NRC and STC are industry standards in understanding acoustical properties of building materials, in an age where offices have mostly adopted an open office layout where sound transmits freely, and with diversifying office culture where activities like desktop prototyping with CNC machines, doggy day care, and aerobic exercises can happen in the same space, these metrics are no longer adequate in assessing our aural environments.  
+While NRC and STC are industry standards in understanding acoustical properties of building materials, in an age when offices have mostly adopted an open office layout where sound transmits freely, and with diversifying office culture where activities like desktop prototyping with CNC machines, doggy day care, and aerobic exercises can happen in the same space, these metrics are no longer adequate in assessing our aural environments.  
 
 According to the National Institute on Deafness and Other Communication Disorders, long term exposure to sounds at or above 85 decibels can cause hearing loss [^2].  This metric to correlate sound pressure levels to hearing loss is, however, much too simplistic because it does not describe how different frequencies of sound affects our health differently. In a paper published in Environmental Health in 2014, researchers found high exposure to low frequency traffic noise at around 125 Hz may induce hypertension [^3].  Other researchers have also found significant associations between low frequency exposure to chronic diseases such as headaches, unusual tiredness, lack of concentration, irritation, and pressure on the eardrum [^4].  
 
@@ -72,11 +72,11 @@ According to the National Institute on Deafness and Other Communication Disorder
 [^3]: Chang, Ta-Yuan et al. “Road traffic noise frequency and prevalent hypertension in Taichung, Taiwan: a cross-sectional study” Environmental health : a global access science source vol. 13,1 37. 16 May. 2014, doi:10.1186/1476-069X-13-37
 [^4]: Persson Waye, Kerstin. (2011). Noise and Health - Effects of Low Frequency Noise and Vibrations: Environmental and Occupational Perspectives. 10.1016/B978-0-444-52272-6.00245-2.
 
-In short, our evolving work environment and the increasing number of environmental health research are showing a deficiency in this single value system, and our proposal is to develop a more comprehensive view of noise and its interaction with space and materials. 
+In short, our evolving work environment and the increasing number of environmental health research is showing a deficiency in this single-value system, and our proposal is to develop a more comprehensive view of noise and its interaction with space and materials. 
 
-What we propose is to go beyond the single value metric. Sound is a spectrum and human hearing is sensitive from 20Hz to 20kHz, therefore, we propose an acoustical standard that would allow us to gain a deeper insight into the nature of sound. 
+What we propose is to go beyond the single-value metric. Sound is a spectrum and human hearing is sensitive from 20Hz to 20kHz, therefore we propose an acoustical standard that will allow us to gain a deeper insight into the nature of sound. 
 
-This proposal involve 2 stages of acoustical testing. The first is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
+This proposal involve 2 stages of acoustical testing. The first, is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
 
 
 
@@ -84,7 +84,7 @@ This proposal involve 2 stages of acoustical testing. The first is to record and
 
 ### Material Testing Methodology
 
-Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to do a full spectrum sweep between 20Hz to 20,000Hz. For equipment we are using a measurement microphone that is factory calibrated and records a flat profile. We setup a rig so the speaker and microphone is 1 meter apart, and the testing material is right up against the speaker to minimize reflected sound. We take a control measurement without any materials prior to each test. Measurement is then collected and processed with Python.
+Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to do a full spectrum sweep between 20Hz to 20,000Hz. For equipment we are using a measurement microphone that is factory calibrated and records a flat profile. We set up a rig so that the speaker and microphone are 1 meter apart, and the testing material is right up against the speaker to minimize reflected sound. We take a control measurement without any materials prior to each test. Measurements are then collected and processed with Python.
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/166.embed"></iframe>
 
@@ -106,7 +106,7 @@ Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz 
 
 #### Environmental Noise Recording Methodology
 
-For sound recording, we are using a Zoom H1 Digital Recorder with 2 unidirectional microphone set at 90 degree to one another recording a wide sound field, and an Extech 407730- Digital sound level meter to record the sound pressure level (SPL) of the source, typically 1 meter away or as noted. If situation does not allow for the recording to be at 1 meter away, 2 meter distance is used and we use the Inverse Square Law, reduction of 6 decibel per meter, to adjust for the final value. 
+For sound recording, we are using a Zoom H1 Digital Recorder with 2 unidirectional microphones set at 90 degrees to one another recording a wide sound field, and an Extech 407730- Digital sound level meter to record the sound pressure level (SPL) of the source, typically 1 meter away or as noted. If the situation does not allow for the recording to be at 1 meter away, a 2 meter distance is used and the Inverse Square Law - reduction of 6 decibel per meter - to adjust for the final value. 
 
 
 
@@ -122,7 +122,7 @@ For sound recording, we are using a Zoom H1 Digital Recorder with 2 unidirection
 
 
 
-The sound pressure level is recorded with A-weighting on the instrument, which is weighted to human sound perception. The initial recordings recorded at about 36 locations profiling various kinds of noise, from single point source produced by a single machine, an omnisource produced by the extraction fan that is omnipresent, to background noise produced by foot and vehicular traffic. 
+The sound pressure level is recorded with A-weighting on the instrument, which is weighted to human sound perception. The initial recordings are recorded at about 36 locations profiling various kinds of noise, from a single point source produced by a single machine, an omnisource produced by an extraction fan that is omnipresent, to background noise produced by foot and vehicular traffic. 
 
 
 
@@ -203,7 +203,6 @@ In addition to recording the sound pressure levels,  the sound is also recorded 
   </div>
 </div>
 </div>
-
 
 
 ------
