@@ -82,7 +82,7 @@ An example design of our sensor network modules, designed and prototyped by our 
 
 ### Structure from Motion Photogrammetry
 
-Below is an example of a 3D scan with SfM camera setup. Our approach is to combine high resolution data used to capture "Hard Elements" such as the locations of high wired infrastructure, building structure, and equipment. These are the static objects that do not or cannot be changed.  
+Below is an example of a 3D scan with SfM camera setup. Our approach is to combine high resolution data used to capture "Hard Elements" such as the locations of high wired infrastructure, building structure, and equipment. These are the static objects that do not or cannot be changed.  This high resolution scan can be used in conjunction with low-resolution real-time 3D scanning technology such as SLAM (see below) to assess the "Soft Elements" such as the presence and location of objects, furnitures, or anything else that maybe out-of-place.
 
 This space is our ITL office in Brooklyn. Annotations in the model show the location of the sensors currently setup in our space. And the graphs below show the reading of our sensors. 
 
@@ -92,7 +92,11 @@ This space is our ITL office in Brooklyn. Annotations in the model show the loca
 
 ### Data Visualization
 
-We are also developing a dashboard system that can display all the relevant data gathered from the sensor network. We can also run analytics and assessments to quantify all of these values as a comprehensive dataset. 
+We are also developing a dashboard system that can display all the relevant data gathered from the sensor network, machine learning spatial and behavioral tracking data, along with the 3D and 2D information. This allows us to run analytics and assessments to quantify all of these values as a comprehensive dataset. 
+
+<center>Room Occupancy Map</center>
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/44.embed">ggg</iframe>
 
 <div class="container">
 <div class="row">
@@ -104,7 +108,6 @@ We are also developing a dashboard system that can display all the relevant data
   </div>
 </div>
 </div>
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/44.embed">ggg</iframe>
 
 
 
@@ -114,11 +117,11 @@ We are also developing a dashboard system that can display all the relevant data
 
 ### Stereo Simultaneous Localization and Mapping Tests
 
-We are conducting tests using stereocamera setup for realtime 3D scans. A stereocamera is mounted onto a robotic arm to sweep in a controlled and pre-defined path.  
+We are conducting tests using stereocamera setup to generate realtime 3D scans. A stereocamera is mounted onto a robotic arm to sweep in a controlled and pre-defined path.  
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/HEfql1s4Qac?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Low resolution SLAM data can be used to assess current state of spaces. 
+Mock up of a low resolution SLAM model, which can be used to assess soft elements such as any objects that are occupying the room that are not hard wired to the building. 
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
