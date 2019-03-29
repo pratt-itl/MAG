@@ -18,15 +18,15 @@ thumb: thumb.png
 
 The primary focus of this research is *spatial prospecting - to collect, analyze, and mine spatial data* to reveal human macro and micro structures hidden deep in our spatial and temporal dimensions. We are developing novel ways to combine machine learning, computer vision, photogrammetry, IoT devices, industrial design, architecture, and urban design, to allow us to gain insights into the relationship between space, design, and human behavior. There are several research areas that are currently undertaken by MAG under this topic., each with its own subset of challenges and goals. 
 
-We have categorized our research areas two domains: Public and Private. Public space analytics prioritizes itself with gathering anonymous spatial data in both urban and indoor environments so we can gain insight into how design can facilitate social interactions. Private space analytics, on the other hand, is predicated on the use of data to help facilitate planning and management.   
+We have categorized our research areas into two domains: Public and Private. Public space analytics prioritizes itself with gathering anonymous spatial data in both urban and indoor environments, so we can gain insight into how design can facilitate social interactions. Private space analytics, on the other hand, is predicated on the use of data to help facilitate planning and management.   
 
 ------
 
 ### Spatial Analytics with Machine Learning
 
-This research proposes a fully automated, autonomous, and anonymous approach to spatial and behavioral tracking using uncalibrated and unordered video footages and Building Information Models. The proposed technology allows us to utilize video recordings from most existing security camera system and extract information on how people interact with objects in space and their tendencies to congregate in certain areas. The spatial and behavioral tracking and analysis uses state of the art machine learning algorithm in human detection to produce a 3-dimensional point cloud dataset which can then be visualized as a heatmap for understanding activity concentrations. 
+This research proposes a fully automated, autonomous, and anonymous approach to spatial and behavioral tracking using uncalibrated and unordered video footage and Building Information Models. The proposed technology allows us to utilize video recordings from most existing security camera systems and extract information on how people interact with objects in space, and their tendencies to congregate in certain areas. The spatial and behavioral tracking and analysis uses state of the art machine learning algorithm in human detection to produce a 3-dimensional point cloud dataset which can then be visualized as a heatmap for understanding activity concentrations. 
 
-We also extract data for body gestures and how people interact with objects such as urban furniture, sculptures, lawn, trees, and other types of and  The system targets the archaic practice in urban design and architecture where spatial usage pattern data is collected with a survey by hand and on foot, which leads to highly inaccurate, unintelligibly biased, and practically useless results.  
+We also extract data for body gestures and how people interact with objects such as urban furniture, sculptures, lawn, trees, and other types of urban objects.  The system targets the archaic practice in urban design and architecture where spatial usage pattern data is collected with a survey by hand and on foot, which leads to highly inaccurate, unintelligibly biased, and practically useless results.  
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZnPfhx3L0Lg?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -34,11 +34,11 @@ We also extract data for body gestures and how people interact with objects such
 
 ------
 
-### Room Occupancy Tracking 
+### Space Occupancy Tracking 
 
-This research proposes an automated room occupancy tracking system to correlate spatial and behavioral analytics to environmental data via a network Internet of Things devices. The research  addresses one of the fundamental issues of any facilities which is how to enhance people's emotional and  physical productivity while effectively maximizing spatial occupancy with adequate infrastructure. The system uses machine learning human detection to collect anonymous spatial and behavioral data, custom trained machine learning object detection algorithm for furniture location and orientation detection, an Internet of Things sensor network for environmental data collection to gather temperature, humidity, light level, air quality, and lastly, a stereo camera with structure from motion algorithm for near realtime 3-dimensional point-cloud generation.
+This research proposes an automated space occupancy tracking system to correlate spatial and behavioral analytics to environmental data via a network of Internet of Things (IoT) devices. The research  addresses one of the fundamental issues of any facilities which is how to enhance people's emotional and  physical productivity while effectively maximizing spatial occupancy with adequate infrastructure. The system uses machine learning human detection to collect anonymous spatial and behavioral data, custom trained machine learning object detection algorithm for furniture location and orientation detection, an Internet of Things sensor network for environmental data collection to gather temperature, humidity, light level, air quality, and lastly, a stereo camera with structure from motion algorithm for near realtime 3-dimensional point-cloud generation.
 
-Below is a video showing test results of our custom trained machine learning tags. The tags will be deployed on furnitures and this setup will allow us to track the location and orientation, as well as how people interact with them.
+Below is a video showing test results of our custom trained machine learning tags. The tags will be deployed on furnitures and this setup will allow us to track location and orientation of the furnishings, as well as how people interact with them.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/OEQaDA0RMyA?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -46,9 +46,9 @@ Below is a video showing test results of our custom trained machine learning tag
 
 ### Sensor Modules Design
 
-One of our main goal is to pursue this as an interdisciplinary research and involve as many research assisants from different disciplines as possible. For our sensor network, the immediate design challenge is to develop a proper housing that can facilitate air flow and heat dissipation, battery and port access, and last but not least, mounting and structural issues, all the while keeping the design as compact and portable as possible.
+One of our main goals is to pursue this as an interdisciplinary research and involve as many research assisants from different disciplines as possible. For our sensor network, the immediate design challenge is to develop a proper housing that can facilitate air flow and heat dissipation, battery and port access, and last but not least, mounting and structural issues, all the while keeping the design as compact and portable as possible.
 
-Example design of our sensor network modules, designed and prototyped by our research assistant from Industrial Design Department.
+An example design of our sensor network modules, designed and prototyped by our research assistant from the Industrial Design Department.
 
 
 
@@ -81,9 +81,9 @@ Example design of our sensor network modules, designed and prototyped by our res
 
 ### Structure from Motion Photogrammetry
 
-Example of 3D scan with SfM camera setup. Our approach is to combine high resolution data used to capture "Hard Elements" such as the locations of high wired infrastructure, structure, and equipments. These are the static environment that do not or cannot be moved. These 
+Below is an example of a 3D scan with SfM camera setup. Our approach is to combine high resolution data used to capture "Hard Elements" such as the locations of high wired infrastructure, building structure, and equipment. These are the static objects that do not or cannot be changed.  
 
-Space is of our ITL office in Brooklyn. Annotations in the model shows the location of the sensors currently setup in our space. And the graphs below shows the reading of our sensors. 
+This space is our ITL office in Brooklyn. Annotations in the model show the location of the sensors currently setup in our space. And the graphs below show the reading of our sensors. 
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/cf230a87371c4df18d9ab2301bd7e731/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
@@ -91,7 +91,7 @@ Space is of our ITL office in Brooklyn. Annotations in the model shows the locat
 
 ### Data Visualization
 
-We are also developing a dashboard system that can display all the relevant data gathered from the sensor network. We can also run analytics and assessment to quantify all these values as a comprehensive dataset. 
+We are also developing a dashboard system that can display all the relevant data gathered from the sensor network. We can also run analytics and assessments to quantify all of these values as a comprehensive dataset. 
 
 <div class="container">
 <div class="row">
@@ -113,11 +113,11 @@ We are also developing a dashboard system that can display all the relevant data
 
 ### Stereo Simultaneous Localization and Mapping Tests
 
-We are conducting tests for using stereocamera setup for realtime 3D scans. A stereocamera is mounted onto a robotic arm to sweep in a controlled and pre-defined path.  
+We are conducting tests using stereocamera setup for realtime 3D scans. A stereocamera is mounted onto a robotic arm to sweep in a controlled and pre-defined path.  
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/HEfql1s4Qac?rel=0;&autoplay=0&mute=1&controls=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Low resolution SLAM data can be used to assess current state  of spaces. 
+Low resolution SLAM data can be used to assess current state of spaces. 
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
