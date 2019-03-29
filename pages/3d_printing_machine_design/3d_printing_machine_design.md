@@ -54,27 +54,15 @@ The following has to do with a new way to think about tools in the institute.
 <br>
 </div>
 
-> Plastic printing BKMM (left) and Clay extruding delta robot (right)
-
----
-
-### Large Scale Extruders
-
-![alt text](images/image4.jpg)
-
-> Prototype for large scale pellet extrusion.
-
----
-
-### Extrusion Spans
+> V5.1 BKMM 3d Printer 300mm x 300mm x 300mm (left) V1.1 Clay 3d Printer 455mm x 900mm (right)
 
 ![alt text](images/image6.jpg)
 
-> _Blurred Lines_ - Degree Project Research by Andrew Reitz & Matt Leta
+> Blurred Lines - Degree Project Research by Andrew Reitz & Matt Leta
 
 ![alt text](images/image13.jpg)
 
-> _Blurred Lines_ - Degree Project Research by Andrew Reitz & Matt Leta
+> Blurred Lines - Degree Project Research by Andrew Reitz & Matt Leta
 
 ![alt text](images/image8.jpg)
 
@@ -86,7 +74,7 @@ The following has to do with a new way to think about tools in the institute.
 
 ![alt text](images/image7.jpg)
 
-> _Blurred Lines_ - Degree Project Research by Andrew Reitz & Matt Leta
+> Blurred Lines - Degree Project Research by Andrew Reitz & Matt Leta
 
 ![alt text](images/image18.jpg)
 
@@ -100,6 +88,30 @@ The following has to do with a new way to think about tools in the institute.
 
 > Phase 3: Emergent Repetition - This photograph exhibits the intricate “ripples" that emerge during the fabrication/3d printing process. The uncontrollability of these effects met with controllability of the digital input, directed the research into a new phase that is deemed "the modulation”
 
+![alt text](images/image4.jpg)
+
+> Prototype V1.0 Large Scale Pellet Extruder
+
+---
+
+### Clay 3d Printing
+
+![alt text](images/image19.png)
+
+> Clay Pneumatic/Screw Feed / 18” Dia build bed / V≈36643.54 cu/in / RAMPS 1.4 Control / Software : Proprietary
+
+![alt text](images/image6.png)
+
+> Consistency Test
+
+![alt text](images/image13.png)
+
+> Flow Test
+
+![alt text](images/image3.png)
+
+> Custom Software and Interface Design for Clay 3d Printing
+
 ---
 
 ### Bioprinter
@@ -112,15 +124,9 @@ The following has to do with a new way to think about tools in the institute.
 
  > Bioprinter: David Ruy, BioPrinter design: Richard Sarrach, Synthetic Biologists: Oliver Medvedik and Nina Tandon 
 
- ---
-
- ### Cupcake: Frankenbot
-
 ![alt text](images/image10.jpg)
 
 ![alt text](images/image5.jpg)
-
----
 
 ![alt text](images/image17.jpg)
 
