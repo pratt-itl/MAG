@@ -513,6 +513,10 @@ pre {
   color: gray;
 }
 
+center {
+  font-family: 'IBM Plex Mono', monospace;
+  font-style: italic;
+}
 
 /*
 .##......##.########.########..##....##.####.########

@@ -52,7 +52,7 @@ One of our main goals is to pursue this as an interdisciplinary research and inv
 
 An example design of our sensor network modules, designed and prototyped by our research assistant from the Industrial Design Department.
 
-
+<br>
 
 <div class="container">
 <div class="row">
