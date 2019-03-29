@@ -16,6 +16,8 @@ thumb: thumb.png
 ## Spatial Analysis & Simulation // ML & Sensors
 ---
 
+![splash](./images/splash.jpg)
+
 The primary focus of this research is *spatial prospecting - to collect, analyze, and mine spatial data* to reveal human macro and micro structures hidden deep in our spatial and temporal dimensions. We are developing novel ways to combine machine learning, computer vision, photogrammetry, IoT devices, industrial design, architecture, and urban design, to allow us to gain insights into the relationship between space, design, and human behavior. There are several research areas that are currently undertaken by MAG under this topic., each with its own subset of challenges and goals. 
 
 We have categorized our research areas into two domains: Public and Private. Public space analytics prioritizes itself with gathering anonymous spatial data in both urban and indoor environments, so we can gain insight into how design can facilitate social interactions. Private space analytics, on the other hand, is predicated on the use of data to help facilitate planning and management.   
@@ -76,7 +78,6 @@ An example design of our sensor network modules, designed and prototyped by our 
 <div class="col">
   <div class="sketchfab-embed-wrapper"><iframe width="100%" height="300" src="https://sketchfab.com/models/60d659e402dc48a8a67a7fb72cf541c6/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 </div></div></div>
-
 ------
 
 ### Structure from Motion Photogrammetry
