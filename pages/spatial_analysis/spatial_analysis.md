@@ -128,5 +128,3 @@ Mock up of a low resolution SLAM model, which can be used to assess soft element
 
 ---
 
-<img src="{{ BASE_PATH }}/MAG/assets/images/home/workflow_dg.jpg" style="padding: 20px; max-width: 600px;">
-
