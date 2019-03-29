@@ -88,7 +88,7 @@ The following has to do with a new way to think about tools in the institute.
 
 > Phase 3: Emergent Repetition - This photograph exhibits the intricate “ripples" that emerge during the fabrication/3d printing process. The uncontrollability of these effects met with controllability of the digital input, directed the research into a new phase that is deemed "the modulation”
 
-![alt text](images/image4.jpg)
+![alt text](images/image5.png)
 
 > Prototype V1.0 Large Scale Pellet Extruder
 

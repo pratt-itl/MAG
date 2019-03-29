@@ -126,6 +126,7 @@ Mock up of a low resolution SLAM model, which can be used to assess soft element
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="400" src="https://sketchfab.com/models/f4564279025c427f9112eff864cf9e2c/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 
-
 ---
+
+<img src="{{ BASE_PATH }}/MAG/assets/images/home/workflow_dg.jpg" style="padding: 20px; max-width: 600px;">
 

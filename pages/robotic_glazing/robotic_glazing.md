@@ -26,7 +26,8 @@ The research highlights such critical questions as: How can robotics expand on t
 
 Robotics in the creative disciplines has the potential to recast the entire field as a practice: the modern division between intellectual work and manual production, between design and realization, is being rendered obsolete. What is apparent, though, is that it is only through informed speculation, research, and experimentation that architects, designers, and artists will ever have the hope of being significant players at the table when the cost, time and space of making has collapsed.
 
-![](images/image17.gif)
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/338f5aa603b24ec6b9303596867e3285/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 > We use virtual models of our machines as teaching tools.
 
@@ -38,14 +39,13 @@ Robotics in the creative disciplines has the potential to recast the entire fiel
 
 ### Touch
 
-![](images/image1.PNG)
+![](images/image1.png)
 
 > Smart Hard Gripper: Pressure sensitive feedback system that can be calibrated to understand how much force it is generating on an object.
 
 ![](images/gripper.PNG)
 
 > Smart Hard Gripper V002
-
 
 ![](images/softrobo.gif)
 
@@ -63,7 +63,13 @@ Robotics in the creative disciplines has the potential to recast the entire fiel
 
 > Robotic Spray Line Testing
 
-![](images/image8.png) 
+![](images/airbrush.gif) 
+
+> Robotic Spray Line Testing
+
+
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/0317b91add2a487d918dceb157c16a37/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 > 3D Model of our 4-Color Robotic Spray End Effector
 
