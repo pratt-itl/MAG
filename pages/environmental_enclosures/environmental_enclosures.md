@@ -60,31 +60,46 @@ Altogether the escape pods comprehensive approach provides the ideal design solu
 
 ![](./images/IMG_9034.jpg)
 
-In accounting for acoustical properties of building materials, a single-value Noise Reduction Coefficient (NRC), or Sound Transmission Class (STC) value, is used by the industry as a standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]
+In accounting for acoustical properties of building materials, a single-value Noise Reduction Coefficient (NRC), or Sound Transmission Class (STC) value, is used by the industry as a standard metric. Both value systems describe how well a material absorbs sound energy. While NRC focuses on the reflected sound, STC focuses on the transmitted sound, usually in the range of normal speech frequencies between 120 Hz to 4000 Hz [^1]. Therefore, one can say this industry standard is biased towards noises in the human vocal range.  
 
 [^1]: http://www.montana.edu/rmaher/eele417_fl14/Determination_of_STC.pdf
 
-While NRC and STC are industry standards in understanding acoustical properties of building materials, in an age when offices have mostly adopted an open office layout where sound transmits freely, and with diversifying office culture where activities like desktop prototyping with CNC machines, doggy day care, and aerobic exercises can happen in the same space, these metrics are no longer adequate in assessing our aural environments.  
+However, while NRC and STC metrics remains as industry standards, the frequency range and testing methodology is slow to adapt to our rapiding changing living and working environment. In an age when homes and offices have mostly favored the open plan layout where sound transmits freely, and with diversifying home and office cultures where activities like desktop prototyping with CNC machines, doggy daycare, and aerobic exercises can happen in the same space, these single value metrics are no longer adequate in assessing our aural environments.  
 
-According to the National Institute on Deafness and Other Communication Disorders, long term exposure to sounds at or above 85 decibels can cause hearing loss [^2].  This metric to correlate sound pressure levels to hearing loss is, however, much too simplistic because it does not describe how different frequencies of sound affects our health differently. In a paper published in Environmental Health in 2014, researchers found high exposure to low frequency traffic noise at around 125 Hz may induce hypertension [^3].  Other researchers have also found significant associations between low frequency exposure to chronic diseases such as headaches, unusual tiredness, lack of concentration, irritation, and pressure on the eardrum [^4].  
+According to the National Institute on Deafness and Other Communication Disorders, long term exposure to sounds at or above 85 decibels can cause hearing loss [^2]. This metric to correlate sound pressure levels to hearing loss is, however, much too simplistic because it does not describe how different frequencies of sound affects our health differently. In particular, the noise / stress correlation finds that noise can activate our stress regulating systems - hypothalamic-pituitary-adrenal axis and sympathoadrenal system[^3] and immediately triggering physiological response such as fight / flight or defeat reactions. 
+
+In addition, in a paper published in Environmental Health in 2014, researchers found high exposure to low frequency traffic noise at around 125 Hz very likely to induce hypertension [^4].  Other researchers have also found significant associations between low frequency exposure to chronic diseases such as headaches, unusual tiredness, lack of concentration, irritation, and pressure on the eardrum [^5].  
 
 [^2]: https://www.nidcd.nih.gov/health/noise-induced-hearing-loss
-[^3]: Chang, Ta-Yuan et al. “Road traffic noise frequency and prevalent hypertension in Taichung, Taiwan: a cross-sectional study” Environmental health : a global access science source vol. 13,1 37. 16 May. 2014, doi:10.1186/1476-069X-13-37
-[^4]: Persson Waye, Kerstin. (2011). Noise and Health - Effects of Low Frequency Noise and Vibrations: Environmental and Occupational Perspectives. 10.1016/B978-0-444-52272-6.00245-2.
+[^3]:  Schommer NC, Hellhammer DH, Kirschbaum C. Dissociation between reactivity of the hypothalamus-pituitary-adrenal axis and the sympathetic-adrenal-medullary system to repeated psychosocial stress. Psychosom Med. 2003 May-Jun;65(3):450-60.
+[^4]: Chang, Ta-Yuan et al. “Road traffic noise frequency and prevalent hypertension in Taichung, Taiwan: a cross-sectional study” Environmental health : a global access science source vol. 13,1 37. 16 May. 2014, doi:10.1186/1476-069X-13-37
+[^5]: Persson Waye, Kerstin. (2011). Noise and Health - Effects of Low Frequency Noise and Vibrations: Environmental and Occupational Perspectives. 10.1016/B978-0-444-52272-6.00245-2.
 
-In short, our evolving work environment and the increasing number of environmental health research is showing a deficiency in this single-value system, and our proposal is to develop a more comprehensive view of noise and its interaction with space and materials. 
+In short, our evolving work environment and the increasing number of environmental health research is pointing to a deficiency in this single-value system. We are in need of a metric that is much more suited to assessing a much wider spectrum of sound-material interactions that have tremendous non-auditory effects on our health such as mental health and daily well being.   
 
-What we propose is to go beyond the single-value metric. Sound is a spectrum and human hearing is sensitive from 20Hz to 20kHz, therefore we propose an acoustical standard that will allow us to gain a deeper insight into the nature of sound. 
+***What we propose is a 3-step approach to first establish a new sound testing protocol beyond the single-value system, and a design protocol that relies on the new testing protocol to tests for sound absorption effacacies related to surface geometry and material compositions.*** 
 
-This proposal involve 2 stages of acoustical testing. The first, is to record and graph environmental noise in and around our work environments. We want to record and profile noises of common equipments and how it differs from “background” noise.  For the second phase, we will build an acoustical testing station to test and profile common and unusual acoustical materials. 
+Our first step is to understand environmental noise to a fuller extent. We recorded and graphed environmental noise in and around our work environments. The purpose is to record and profile noises of common types of equipment and how it differs from “background” noise.  We have started collecting sound samples and other relevant data in a library of noise. This work will continue to expand.
 
+For the second step, we have built an acoustical testing station and developed a testing protocol to conduct  tests with full spectrum sound. The first round of tests is to profile common and commercial acoustical products. We are in the process of gathering enough data so we can test out some common sound isolation theories.  
 
+Lastly, we are using the noise profile and testing system to help us design a structural and material system that can be adapted to any noise environments whether its high pitch machine noise from desktop prototyping machinery or low frequency traffic noise. These 3-step approach help us for a productive feed-back system between design and engineering, and we expect to make headway into this in the coming months.
 
 ------
 
 ### Material Testing Methodology
 
-Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz to 4000Hz, we decided to do a full spectrum sweep between 20Hz to 20,000Hz. For equipment we are using a measurement microphone that is factory calibrated and records a flat profile. We set up a rig so that the speaker and microphone are 1 meter apart, and the testing material is right up against the speaker to minimize reflected sound. We take a control measurement without any materials prior to each test. Measurements are then collected and processed with Python.
+Standard NRC and STC tests at done at 1/3rd octave band center frequencies between 100Hz to 4000Hz (human vocal range). This means noise samples are only collected at discrete frequency levels in a limited frequency range. We decided to do a full spectrum sweep between 20Hz to 20,000Hz which is the human hearing range. 
+
+For equipment, we are using a measurement microphone that is factory calibrated to records a flat profile. We also use a studio monitor with a tweeter and 6-inch woofer so we also get as close to a flat speaker profile as possible. This system is tested in an open field to emulate an infinite baffle, and we were able to get a fairly flat frequency response until below 60Hz where it begins to drop out.  
+
+Physically, we set up a rig with an aluminum extrusion so the distance between the speaker and the microphone are kept 1 meter apart. We designed a material clamping system so the testing material can be mounted directly on the rail and right up against the speaker to minimize reflected sound.
+
+Finally for the setup, we have a dedicated space setup to facilitate the acoustical testing. The space is large enough for the studio monitor and microphone to be 6 feet away from surrounding surfaces, and we are using sound absorbing foam on all the wall surfaces to minimize reflected sound. 
+
+At the beginning of each testing session, we take 4 of measurements without any materials between the speaker and the microphone and average it out as baseline. Subsequent measurements with actual material samples are then collected. Acoustical samples are continually being collected and tested, this will be an ongoing exercise until the research ends. 
+
+#### Sample Measurements
 
 <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/166.embed"></iframe>
 
@@ -102,7 +117,7 @@ Rather than doing a standardized test at 1/3rd octave frequencies between 100Hz 
 
 ------
 
-### Our Measurements
+### Environmental Noise Measurements
 
 #### Environmental Noise Recording Methodology
 
