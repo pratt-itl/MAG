@@ -231,7 +231,10 @@ From the recordings, we established that the profile from the Pratt Career Cente
 
 Location : **Pratt Career Center** <br>Noise Source : **Ambient** <br>Distance from Source : **Ambient**<br>Max SPL : **53 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/143.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/143.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181026_1430_CareerCenter.png)
 
 ------
 
@@ -241,7 +244,10 @@ And as a comparison, this noise profile is from an even quieter office but with 
 
 Location : **ITL Office** <br>Noise Source : **3D printer** <br>Distance from Source : **1m** <br>Max SPL : **50.5 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/131.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/131.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181018_1630_EB_ITL Office_3dPrinter.png)
 
 ------
 
@@ -249,7 +255,10 @@ Location : **ITL Office** <br>Noise Source : **3D printer** <br>Distance from So
 
 Location : **ITL Office** <br>Noise Source : **Point source chop Saw** <br>Distance from Source : **2m**<br>Max SPL : **101.1 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/129.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/129.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181019_1520_EB_ITLOffice_ChopSaw.png)
 
 ------
 
@@ -257,7 +266,10 @@ Location : **ITL Office** <br>Noise Source : **Point source chop Saw** <br>Dista
 
 Location : **School of Architecture Higgins Hall Lobby** <br>Noise Source : **Ambient noise, conversation and foot traffic** <br>Distance from Source : **Ambient**<br>Max SPL : **81.8 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/125.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/125.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181019_1634_HH_Lobby.png)
 
 ------
 
@@ -265,7 +277,10 @@ Location : **School of Architecture Higgins Hall Lobby** <br>Noise Source : **Am
 
 Location : **School of Architecture Higgins Hall 1 Floor Seating Area by the Vending Machine** <br>Noise Source : **Ambient noise, conversation and foot traffic** <br>Distance from Source : **1m to Vending Machine**<br>Max SPL : **77.6 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/123.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/123.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181019_1636_HH_MainStaircase_VendingMachine.png)
 
 ------
 
@@ -273,7 +288,10 @@ Location : **School of Architecture Higgins Hall 1 Floor Seating Area by the Ven
 
 Location : **School of Architecture Higgins Hall - CNC Shop** <br>Noise Source : **CNC Machine** <br>Distance from Source : **1m**<br>Max SPL : **107.8 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/121.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/121.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181019_1648_HH_CNC.png)
 
 ------
 
@@ -281,7 +299,10 @@ Location : **School of Architecture Higgins Hall - CNC Shop** <br>Noise Source :
 
 Location : **School of Architecture Higgins Hall - Hallway outside CNC Shop** <br>Noise Source : **CNC Machine + ambient foot traffic** <br>Distance from Source : **1m from the door of CNC shop**<br>Max SPL : **79.3 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/119.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/119.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181019_1650_HH_3rdFloorSouthHallway.png)
 
 ------
 
@@ -289,7 +310,10 @@ Location : **School of Architecture Higgins Hall - Hallway outside CNC Shop** <b
 
 Location : **School of Architecture Higgins Hall - 3D Print Shop** <br>Noise Source : **Spray Booth Fan** <br>Distance from Source : **1m**<br>Max SPL : **81 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/127.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/127.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181019_1658_HH_SprayBooth_Fan.png)
 
 ------
 
@@ -297,7 +321,10 @@ Location : **School of Architecture Higgins Hall - 3D Print Shop** <br>Noise Sou
 
 Location : **Main Campus Security Booth** <br>Noise Source : **Ambient Traffic** <br>Distance from Source : **Ambient**<br>Max SPL : **75.1 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/139.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/139.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181026_1405_MC_SecurityBooth.png)
 
 ------
 
@@ -305,7 +332,10 @@ Location : **Main Campus Security Booth** <br>Noise Source : **Ambient Traffic**
 
 Location : **Cafeteria** <br>Noise Source : **Ambient Traffic** <br>Distance from Source : **Ambient**<br>Max SPL : **79.3 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/137.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/137.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181026_1441_Cafeteria.png)
 
 ------
 
@@ -313,7 +343,10 @@ Location : **Cafeteria** <br>Noise Source : **Ambient Traffic** <br>Distance fro
 
 Location : **Engineering Building Wood Shop** <br>Noise Source : **Machinery** <br>Distance from Source : **1m**<br>Max SPL : **79.5 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/135.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/135.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181026_1500_EB_Woodshop.png)
 
 ------
 
@@ -321,7 +354,10 @@ Location : **Engineering Building Wood Shop** <br>Noise Source : **Machinery** <
 
 Location : **Engineering Building Print Lab** <br>Noise Source : **Printers** <br>Distance from Source : **1m**<br>Max SPL : **77 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/133.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/133.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181026_1513_EB_Print Lab.png)
 
 ------
 
@@ -329,7 +365,10 @@ Location : **Engineering Building Print Lab** <br>Noise Source : **Printers** <b
 
 Location : **Engineering Building 1st Floor Hallway** <br>Noise Source : **Video** <br>Distance from Source : **2m**<br>Max SPL : **77.6 dBA**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/141.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~prattitl/141.embed"></iframe><br>
+
+<center>Spectrogram: Noise Fingerprint</center>
+![alt text](images/181026_1517_EB_1st FloorHallway.png)
 
 
 
